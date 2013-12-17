@@ -23,10 +23,10 @@
 <hook NAME="accessories/plugins/RevisionPlugin.properties"/>
 <hook NAME="accessories/plugins/CreationModificationPlugin_new.properties"/>
 <node CREATED="1387299602889" ID="ID_1151576401" LINK="architecture.mm" MODIFIED="1387299935640" POSITION="right" TEXT="Architecture"/>
-<node CREATED="1387299605972" ID="ID_1115307351" MODIFIED="1387299612695" POSITION="right" TEXT="Coupling Functions"/>
-<node CREATED="1387299613118" ID="ID_1119378282" MODIFIED="1387299618409" POSITION="right" TEXT="Utility Functions"/>
-<node CREATED="1387299618732" ID="ID_1066621686" MODIFIED="1387299621641" POSITION="right" TEXT="Metadata"/>
-<node CREATED="1387299621975" ID="ID_1842520373" MODIFIED="1387299627089" POSITION="right" TEXT="Interaction Protocols"/>
-<node CREATED="1387299627430" ID="ID_880950894" MODIFIED="1387299631294" POSITION="right" TEXT="Implementation"/>
+<node CREATED="1387299605972" ID="ID_1115307351" LINK="coupling-functions.mm" MODIFIED="1387300145347" POSITION="right" TEXT="Coupling Functions"/>
+<node CREATED="1387299613118" ID="ID_1119378282" LINK="utility-functions.mm" MODIFIED="1387301918302" POSITION="right" TEXT="Utility Functions"/>
+<node CREATED="1387299618732" ID="ID_1066621686" LINK="metadata.mm" MODIFIED="1387301943173" POSITION="right" TEXT="Metadata"/>
+<node CREATED="1387299621975" ID="ID_1842520373" LINK="interaction-protocols.mm" MODIFIED="1387302017401" POSITION="right" TEXT="Interaction Protocols"/>
+<node CREATED="1387299627430" ID="ID_880950894" LINK="implementation.mm" MODIFIED="1387302148084" POSITION="right" TEXT="Implementation"/>
 </node>
 </map>
