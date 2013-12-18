@@ -13,6 +13,19 @@
 <node CREATED="1387299859733" ID="ID_1565894528" MODIFIED="1387299864669" TEXT="has customizable driver"/>
 </node>
 </node>
-<node CREATED="1387299837015" FOLDED="true" ID="ID_36255719" MODIFIED="1387299848789" POSITION="right" TEXT="SPMD vs MPMD organization"/>
+<node COLOR="#999900" CREATED="1387299837015" FOLDED="true" ID="ID_36255719" MODIFIED="1387333767613" POSITION="right" TEXT="SPMD vs MPMD organization">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      This seems to be related to the &quot;is parallel&quot; feature under implementation.&#160;&#160;Should they be combined?
+    </p>
+  </body>
+</html>
+</richcontent>
+<icon BUILTIN="help"/>
+</node>
 </node>
 </map>
