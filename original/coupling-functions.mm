@@ -9,15 +9,19 @@
 <node CREATED="1387302306594" ID="ID_13" MODIFIED="1387302306594" TEXT="has higher order conservative method"/>
 </node>
 <node CREATED="1387302306595" ID="ID_6" MODIFIED="1387302306595" POSITION="right" TEXT="has temporal accumulation"/>
-<node COLOR="#999900" CREATED="1387302306595" ID="ID_2" MODIFIED="1387332851735" POSITION="right" TEXT="has time and calendar management">
+<node COLOR="#999900" CREATED="1387302306595" ID="ID_2" MODIFIED="1394999639176" POSITION="right" TEXT="has time and calendar management">
 <richcontent TYPE="NOTE"><html>
-                    <head/>
-                    <body>
-                        <p>"has time and calendar management" should go into "utility"</p>
-                    </body>
-                </html></richcontent>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &quot;has time and calendar management&quot; should go into &quot;utility&quot;
+    </p>
+  </body>
+</html>
+</richcontent>
 <icon BUILTIN="help"/>
-<node CREATED="1387302306595" ID="ID_27" MODIFIED="1387302306595" TEXT="my topic"/>
 </node>
 <node COLOR="#999900" CREATED="1387302306595" ID="ID_24" MODIFIED="1387302495949" POSITION="right" TEXT="has brokering">
 <richcontent TYPE="NOTE"><html>
@@ -39,13 +43,18 @@
 <node CREATED="1387302306595" ID="ID_36" MODIFIED="1387302306595" TEXT="has transformation"/>
 </node>
 <node CREATED="1387302306595" ID="ID_37" MODIFIED="1387302306595" POSITION="right" TEXT="has grid/mesh support">
-<node COLOR="#999900" CREATED="1387302306595" ID="ID_38" MODIFIED="1387302499056" TEXT="topology of grids/meshes">
+<node COLOR="#999900" CREATED="1387302306595" ID="ID_38" MODIFIED="1394999621474" TEXT="topology of grids/meshes">
 <richcontent TYPE="NOTE"><html>
-                        <head/>
-                        <body>
-                            <p>Under: dimensionality, structured/unstructured, adaption (could go here)</p>
-                        </body>
-                    </html></richcontent>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Under: dimensionality, structured/unstructured, adaption (could go here)
+    </p>
+  </body>
+</html>
+</richcontent>
 <icon BUILTIN="help"/>
 </node>
 <node CREATED="1387302306595" ID="ID_39" MODIFIED="1387302306595" TEXT="masked grids/meshes"/>

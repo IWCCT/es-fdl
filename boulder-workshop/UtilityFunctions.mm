@@ -1,0 +1,67 @@
+<map version="0.9.0_Beta_8">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node COLOR="#006666" CREATED="1392036283900" ID="ID_1577894689" MODIFIED="1392036420356" TEXT="Utility Functions">
+<node COLOR="#006666" CREATED="1392036335152" ID="ID_182777100" MODIFIED="1392036420356" POSITION="right" TEXT="has error handling"/>
+<node COLOR="#006666" CREATED="1392036350076" ID="ID_344090355" MODIFIED="1392049184903" POSITION="left" TEXT="has I/O">
+<icon BUILTIN="help"/>
+</node>
+<node COLOR="#ff3300" CREATED="1392047613354" ID="ID_57642844" MODIFIED="1392047778763" POSITION="right" TEXT="has debugging">
+<node COLOR="#0000ff" CREATED="1392047748430" ID="ID_653485292" MODIFIED="1392049171648" TEXT="has output of state time">
+<icon BUILTIN="help"/>
+</node>
+<node COLOR="#0000ff" CREATED="1392049096583" ID="ID_717695643" MODIFIED="1392049115138" TEXT="has I/O of coupling fields"/>
+<node COLOR="#0000ff" CREATED="1392047863318" ID="ID_623609470" MODIFIED="1392047980798" TEXT="has human readable log file"/>
+<node COLOR="#0000ff" CREATED="1392047941081" ID="ID_979160364" MODIFIED="1392047980799" TEXT="has other type of on-line diagnostics">
+<node COLOR="#0000ff" CREATED="1392047998680" ID="ID_828156705" MODIFIED="1392048024546" TEXT="flexible"/>
+<node COLOR="#0000ff" CREATED="1392048003903" ID="ID_1444230069" MODIFIED="1392048024546" TEXT="configurable"/>
+</node>
+<node COLOR="#0000ff" CREATED="1392052143353" ID="ID_400299396" MODIFIED="1392053968527" TEXT="performs range checking on coupling fields (outlier detection)"/>
+<node COLOR="#0000ff" CREATED="1392052237380" ID="ID_1714395393" MODIFIED="1392053968528" TEXT="possible to be used with debuggers"/>
+<node COLOR="#0000ff" CREATED="1392052348911" ID="ID_568392064" MODIFIED="1392053968528" TEXT="has idealized test-cases to check conservation and/or interpolation quality"/>
+<node COLOR="#ff3300" CREATED="1392146408677" ID="ID_965649474" MODIFIED="1392146493484" TEXT="has clear API return codes"/>
+<node COLOR="#ff3300" CREATED="1392146593170" ID="ID_115738626" MODIFIED="1392146617075" TEXT="has different debug levels"/>
+<node COLOR="#ff3300" CREATED="1392147408645" ID="ID_1364324737" MODIFIED="1392147466128" TEXT="provides statistics on source and target coupling fields"/>
+</node>
+<node COLOR="#0000ff" CREATED="1392047655703" ID="ID_1969313896" MODIFIED="1392047677067" POSITION="left" TEXT="has coordinated stdout and stderr"/>
+<node COLOR="#0000ff" CREATED="1392048763066" ID="ID_662260379" MODIFIED="1392052119919" POSITION="right" TEXT="performs code extraction, build, run"/>
+<node COLOR="#0000ff" CREATED="1392048791940" ID="ID_215070023" MODIFIED="1392049219706" POSITION="left" TEXT="configuration management">
+<icon BUILTIN="help"/>
+</node>
+<node COLOR="#cc00cc" CREATED="1392205899254" ID="ID_829125871" MODIFIED="1392206004511" POSITION="right" TEXT="priming">
+<node COLOR="#cc00cc" CREATED="1392205915768" ID="ID_875239086" MODIFIED="1392206004512" TEXT="from file"/>
+<node COLOR="#cc00cc" CREATED="1392205932204" ID="ID_893240397" MODIFIED="1392206004512" TEXT="for external entity"/>
+<node COLOR="#cc00cc" CREATED="1392205949179" ID="ID_1834262993" MODIFIED="1392206004512" TEXT="from data"/>
+</node>
+<node COLOR="#0000ff" CREATED="1392049298865" ID="ID_1505685815" MODIFIED="1392049520489" POSITION="right" TEXT="has restart  ability">
+<node COLOR="#0000ff" CREATED="1392049232251" ID="ID_999000058" MODIFIED="1392049520489" TEXT="cross model restart ability"/>
+<node COLOR="#0000ff" CREATED="1392049249202" ID="ID_824572092" MODIFIED="1392049520489" TEXT="support for restart on signal system"/>
+<node COLOR="#ff3300" CREATED="1392147785027" ID="ID_269693718" MODIFIED="1392147817784" TEXT="manages explicit coupling restarts"/>
+</node>
+<node COLOR="#0000ff" CREATED="1392049650052" ID="ID_1407593218" MODIFIED="1392141387295" POSITION="left" TEXT="supports coupled model launch on complex parallel hardware">
+<icon BUILTIN="help"/>
+</node>
+<node COLOR="#0000ff" CREATED="1392049719214" ID="ID_724162322" MODIFIED="1392049736525" POSITION="left" TEXT="offers case management"/>
+<node COLOR="#0000ff" CREATED="1392049745739" ID="ID_1559162758" MODIFIED="1392049759408" POSITION="right" TEXT="archiving data">
+<icon BUILTIN="help"/>
+</node>
+<node COLOR="#0000ff" CREATED="1392051046938" ID="ID_722387990" MODIFIED="1392051290244" POSITION="right" TEXT="analysis tools">
+<icon BUILTIN="help"/>
+</node>
+<node COLOR="#0000ff" CREATED="1392051073963" ID="ID_1687312852" MODIFIED="1392051139981" POSITION="left" TEXT="load balance measure"/>
+<node COLOR="#0000ff" CREATED="1392051258163" ID="ID_1365233508" MODIFIED="1392051299023" POSITION="right" TEXT="dynamic load balance">
+<node COLOR="#cc00cc" CREATED="1392207860459" ID="ID_989992732" MODIFIED="1392207894255" TEXT="between the components"/>
+<node COLOR="#cc00cc" CREATED="1392207870906" ID="ID_1266244342" MODIFIED="1392207894255" TEXT="witin the models"/>
+</node>
+<node COLOR="#0000ff" CREATED="1392052210474" ID="ID_106412714" MODIFIED="1392148081963" POSITION="right" TEXT="produces profiling">
+<node CREATED="1392148030660" ID="ID_1366251231" MODIFIED="1392148035261" TEXT="of coupled model"/>
+<node CREATED="1392148049233" ID="ID_1619199393" MODIFIED="1392148054500" TEXT="of coupling routines"/>
+</node>
+<node COLOR="#0000ff" CREATED="1392052267111" ID="ID_577455815" MODIFIED="1392053968527" POSITION="left" TEXT="has replay mechanism to isolate a single component from feedbacks"/>
+<node COLOR="#0000ff" CREATED="1392052404561" ID="ID_1733613116" MODIFIED="1392053968527" POSITION="right" TEXT="has test to check numerical stability of coupled model"/>
+<node COLOR="#ff3300" CREATED="1392146527990" ID="ID_1504469992" MODIFIED="1392146558880" POSITION="left" TEXT="provides clean abort routine"/>
+<node COLOR="#ff3300" CREATED="1392147906698" ID="ID_1170029474" MODIFIED="1392147956423" POSITION="left" TEXT="uses standard source management system"/>
+<node COLOR="#ff3300" CREATED="1392147924280" ID="ID_1202481819" MODIFIED="1392147956423" POSITION="right" TEXT="uses standard compiling environment"/>
+<node COLOR="#cc00cc" CREATED="1392208568066" ID="ID_62315438" MODIFIED="1392208725135" POSITION="left" TEXT="supports halo exchange"/>
+<node COLOR="#cc00cc" CREATED="1392208608135" ID="ID_171553762" MODIFIED="1392208725135" POSITION="left" TEXT="implements multi-grids"/>
+</node>
+</map>
