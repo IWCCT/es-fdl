@@ -1,4 +1,9 @@
-<map version="1.0.1">
-<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1387301851712" ID="ID_1264093531" MODIFIED="1387301866090" TEXT="Utility Functions"/>
+<map version="0.9.0">
+    <node ID="ID_1" TEXT="Utility Functions">
+        <node ID="ID_2" POSITION="left" TEXT="has I/O"/>
+        <node ID="ID_4" POSITION="right" TEXT="can perform halo operations"/>
+        <node ID="ID_5" POSITION="left" TEXT="has dynamic load balacing"/>
+        <node ID="ID_3" POSITION="right" TEXT="has error handling"/>
+        <node ID="ID_6" POSITION="right" TEXT="has logging"/>
+    </node>
 </map>
