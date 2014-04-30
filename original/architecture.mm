@@ -1,215 +1,131 @@
-<map version="1.0.1">
+<map version="0.8.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1398694715599" ID="ID_1" MODIFIED="1398694721780" TEXT="Architecture">
-<node COLOR="#990099" CREATED="1253796559148" ID="Freemind_Link_969659526" MODIFIED="1398695148175" POSITION="left" TEXT="Architecture_KeyProperties">
+<node COLOR="#cc3300" CREATED="1274083108819" ID="Freemind_Link_1813720185" MODIFIED="1398874707204" TEXT="Framework Architecture">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#000000" CREATED="1274083152242" ID="_" MODIFIED="1398874130153" POSITION="right" STYLE="bubble" TEXT="Architecture">
+<font BOLD="true" NAME="SansSerif" SIZE="16"/>
+<node BACKGROUND_COLOR="#ffcc33" CREATED="1382071455854" ID="Freemind_Link_396132494" MODIFIED="1389199580247" TEXT="Note the introduction of the &quot;attach&quot; icon (paperclip); This signifies that the PropertyBundle should be treated as a virtual component by the Questionnaire.">
+<icon BUILTIN="messagebox_warning"/>
+</node>
+<node COLOR="#990099" CREATED="1253796559148" ID="Freemind_Link_969659526" MODIFIED="1398874145236" TEXT="Architecture_KeyProperties">
 <font BOLD="true" NAME="SansSerif" SIZE="14"/>
-<node COLOR="#990099" CREATED="1254486057572" ID="Freemind_Link_26535854" MODIFIED="1398695160899" TEXT="ArchitectureKeyPropertiesAttributes_">
+<icon BUILTIN="attach"/>
+<node COLOR="#990099" CREATED="1254486057572" ID="Freemind_Link_26535854" MODIFIED="1398874199591" TEXT="Architecture_KeyPropertiesAttributes">
 <font NAME="SansSerif" SIZE="14"/>
-<node BACKGROUND_COLOR="#ffffff" COLOR="#996600" CREATED="1233140619821" ID="Freemind_Link_660949458" MODIFIED="1398695754309" STYLE="bubble" TEXT="Components">
-<richcontent TYPE="NOTE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      [definition]Support for software components.[/definition]
-    </p>
-  </body>
-</html>
-</richcontent>
+<node COLOR="#996600" CREATED="1274083183709" ID="Freemind_Link_405915947" MODIFIED="1398874610582" TEXT="HasCouplingFunctions">
 <font NAME="SansSerif" SIZE="14"/>
-<node BACKGROUND_COLOR="#ffffff" COLOR="#000000" CREATED="1233140643598" ID="Freemind_Link_1646979779" MODIFIED="1398695466449" STYLE="fork" TEXT="explicit components with interfaces">
-<font NAME="Arial" SIZE="14"/>
-<icon BUILTIN="button_cancel"/>
-</node>
-<node BACKGROUND_COLOR="#ffffff" COLOR="#000000" CREATED="1233140643598" ID="Freemind_Link_350624385" MODIFIED="1398695470967" STYLE="fork" TEXT="implicit components">
-<font NAME="Arial" SIZE="14"/>
-<icon BUILTIN="button_cancel"/>
-</node>
-<node BACKGROUND_COLOR="#ffffff" COLOR="#000000" CREATED="1233140643598" ID="Freemind_Link_1534732415" MODIFIED="1398695524411" STYLE="fork" TEXT="no notion of components">
-<font NAME="Arial" SIZE="14"/>
-<icon BUILTIN="button_cancel"/>
-</node>
-</node>
-<node COLOR="#996600" CREATED="1233141022285" ID="ID_704887815" MODIFIED="1398696662836" STYLE="bubble" TEXT="DesignIntent">
-<richcontent TYPE="NOTE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      [definition]The intent of the software designers when the software was created.[/definition]
-    </p>
-  </body>
-</html></richcontent>
-<font NAME="Arial" SIZE="14"/>
-<node BACKGROUND_COLOR="#ffffff" COLOR="#000000" CREATED="1398695542399" ID="ID_684201655" MODIFIED="1398696845302" STYLE="fork" TEXT="designed to support a specific model or modeling system">
-<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
-<font NAME="Arial" SIZE="14"/>
-<icon BUILTIN="button_cancel"/>
-</node>
-<node BACKGROUND_COLOR="#ffffff" COLOR="#000000" CREATED="1398695569815" ID="ID_548037667" MODIFIED="1398696883348" STYLE="fork" TEXT="generic design">
-<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
-<font NAME="Arial" SIZE="14"/>
-<icon BUILTIN="button_cancel"/>
-</node>
-</node>
-<node COLOR="#0033ff" CREATED="1256926089931" ID="ID_1134646091" MODIFIED="1398696945727" TEXT="if DesignIntent is &quot;designed to support a specific model or modeling system&quot;">
-<font NAME="SansSerif" SIZE="14"/>
-<node COLOR="#996600" CREATED="1256808784284" ID="ID_599089561" MODIFIED="1398697285383" TEXT="DesignFlexibility">
-<richcontent TYPE="NOTE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      [definition]How much work would be involved adapting the software to previously unsupported models.[/definition]
-    </p>
-  </body>
-</html></richcontent>
-<font NAME="SansSerif" SIZE="14"/>
-<node CREATED="1256808788500" ID="ID_810025352" MODIFIED="1398697444911" STYLE="fork" TEXT="minor or moderate changes required to new model">
-<font NAME="SansSerif" SIZE="14"/>
-<icon BUILTIN="button_ok"/>
-</node>
-<node CREATED="1256808800123" ID="ID_781807963" MODIFIED="1398697467776" STYLE="fork" TEXT="major changes required to new model">
-<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
-<font NAME="SansSerif" SIZE="14"/>
-<icon BUILTIN="button_ok"/>
-</node>
-<node CREATED="1256808986069" ID="ID_1930511924" MODIFIED="1398697467775" STYLE="fork" TEXT="minor or moderate changes required to framework">
-<font NAME="SansSerif" SIZE="14"/>
-<icon BUILTIN="button_ok"/>
-</node>
-<node CREATED="1256808986069" ID="ID_758508848" MODIFIED="1398697467774" STYLE="fork" TEXT="major changes required to framework">
-<font NAME="SansSerif" SIZE="14"/>
-<icon BUILTIN="button_ok"/>
-</node>
-</node>
-</node>
-<node COLOR="#996600" CREATED="1233141022285" ID="Freemind_Link_599221753" MODIFIED="1398695955542" STYLE="bubble" TEXT="ControlMode">
-<richcontent TYPE="NOTE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      [definition]How control flow is handled at execution time.[/definition]
-    </p>
-  </body>
-</html>
-</richcontent>
-<font NAME="Arial" SIZE="14"/>
-<node BACKGROUND_COLOR="#ffffff" COLOR="#000000" CREATED="1398695542399" ID="ID_1723885380" MODIFIED="1398695993692" STYLE="fork" TEXT="models retain control, calling library functions">
-<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
-<font NAME="Arial" SIZE="14"/>
-<icon BUILTIN="button_cancel"/>
-</node>
-<node BACKGROUND_COLOR="#ffffff" COLOR="#000000" CREATED="1398695569815" ID="ID_129404467" MODIFIED="1398696098734" STYLE="fork" TEXT="control thread is in driver or framework itself">
-<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
-<font NAME="Arial" SIZE="14"/>
-<icon BUILTIN="button_cancel"/>
-</node>
-</node>
-<node COLOR="#0033ff" CREATED="1256926089931" ID="Freemind_Link_226267521" MODIFIED="1398696120925" TEXT="if ControlModel is &quot;control thread is in driver or framework itself&quot;">
-<font NAME="SansSerif" SIZE="14"/>
-<node COLOR="#996600" CREATED="1256808784284" ID="Freemind_Link_414212782" MODIFIED="1398696352297" TEXT="CustomizableDriver">
-<richcontent TYPE="NOTE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      [definition]Whether the driver is fixed (hard-coded) or customizable via extension/overriding or configuration.[/definition]
-    </p>
-  </body>
-</html>
-</richcontent>
-<font NAME="SansSerif" SIZE="14"/>
-<node CREATED="1256808788500" ID="Freemind_Link_1381574927" MODIFIED="1398696193713" STYLE="fork" TEXT="supported">
+<hook NAME="accessories/plugins/NodeNote.properties">
+<text>[definition]definition needed[/definition]</text>
+</hook>
+<node CREATED="1274083363905" ID="Freemind_Link_584579582" MODIFIED="1382048949556" STYLE="fork" TEXT="yes">
 <font NAME="SansSerif" SIZE="14"/>
 <icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1256808800123" ID="Freemind_Link_1024872946" MODIFIED="1398696224612" STYLE="fork" TEXT="not supported but not precluded">
+<node CREATED="1274083363905" ID="Freemind_Link_943545894" MODIFIED="1382048951129" STYLE="fork" TEXT="no">
 <font NAME="SansSerif" SIZE="14"/>
 <icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1256808986069" ID="Freemind_Link_989878720" MODIFIED="1398696247478" STYLE="fork" TEXT="not possible">
+</node>
+<node COLOR="#996600" CREATED="1274083183709" FOLDED="true" ID="Freemind_Link_371451596" MODIFIED="1398874621293" TEXT="HasUtilityFunctions">
+<font NAME="SansSerif" SIZE="14"/>
+<hook NAME="accessories/plugins/NodeNote.properties">
+<text>[definition]definition needed[/definition]</text>
+</hook>
+<node CREATED="1274083363905" ID="Freemind_Link_1775920972" MODIFIED="1382048949556" STYLE="fork" TEXT="yes">
+<font NAME="SansSerif" SIZE="14"/>
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1274083363905" ID="Freemind_Link_1606675207" MODIFIED="1382048951129" STYLE="fork" TEXT="no">
+<font NAME="SansSerif" SIZE="14"/>
+<icon BUILTIN="button_cancel"/>
+</node>
+</node>
+<node COLOR="#996600" CREATED="1274083183709" ID="Freemind_Link_786761298" MODIFIED="1398874630187" TEXT="HasAGraphicalUserInterface">
+<font NAME="SansSerif" SIZE="14"/>
+<hook NAME="accessories/plugins/NodeNote.properties">
+<text>[definition]definition needed[/definition]</text>
+</hook>
+<node CREATED="1274083363905" ID="Freemind_Link_349315041" MODIFIED="1382048949556" STYLE="fork" TEXT="yes">
+<font NAME="SansSerif" SIZE="14"/>
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1274083363905" ID="Freemind_Link_1534854726" MODIFIED="1382048951129" STYLE="fork" TEXT="no">
+<font NAME="SansSerif" SIZE="14"/>
+<icon BUILTIN="button_cancel"/>
+</node>
+</node>
+<node COLOR="#996600" CREATED="1274083183709" ID="Freemind_Link_499737304" MODIFIED="1398874637079" TEXT="HasComponents">
+<font NAME="SansSerif" SIZE="14"/>
+<hook NAME="accessories/plugins/NodeNote.properties">
+<text>[definition]definition needed[/definition]</text>
+</hook>
+<node CREATED="1274083363905" ID="Freemind_Link_1407730767" MODIFIED="1382048949556" STYLE="fork" TEXT="yes">
+<font NAME="SansSerif" SIZE="14"/>
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1274083363905" ID="Freemind_Link_816210082" MODIFIED="1382048951129" STYLE="fork" TEXT="no">
+<font NAME="SansSerif" SIZE="14"/>
+<icon BUILTIN="button_cancel"/>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1274083274057" ID="Freemind_Link_85863192" MODIFIED="1398874380533" STYLE="bubble" TEXT="if HasComponents is &quot;yes&quot;">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#996600" CREATED="1274083183709" ID="Freemind_Link_223564181" MODIFIED="1398874390246" TEXT="HasNestedComponents">
+<font NAME="SansSerif" SIZE="14"/>
+<node CREATED="1274083363905" ID="Freemind_Link_272903349" MODIFIED="1382048949556" STYLE="fork" TEXT="yes">
+<font NAME="SansSerif" SIZE="14"/>
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1274083363905" ID="Freemind_Link_247821629" MODIFIED="1382048951129" STYLE="fork" TEXT="no">
 <font NAME="SansSerif" SIZE="14"/>
 <icon BUILTIN="button_cancel"/>
 </node>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1256808650636" ID="Freemind_Link_907728733" MODIFIED="1398696515212" TEXT="FeatureSupport">
-<richcontent TYPE="NOTE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      [definition]Features supported by the software.[/definition]
-    </p>
-  </body>
-</html>
-</richcontent>
+<node COLOR="#996600" CREATED="1274083183709" ID="Freemind_Link_1951027921" MODIFIED="1398874411560" TEXT="HasWorkflowSupport">
 <font NAME="SansSerif" SIZE="14"/>
-<node CREATED="1256808658741" ID="Freemind_Link_1790026191" MODIFIED="1398696535396" STYLE="fork" TEXT="graphical user interface">
+<node CREATED="1274083363905" ID="Freemind_Link_1848133093" MODIFIED="1382048949556" STYLE="fork" TEXT="yes">
 <font NAME="SansSerif" SIZE="14"/>
-<icon BUILTIN="button_ok"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1256808658741" ID="ID_1992304913" MODIFIED="1398696560997" STYLE="fork" TEXT="coupling functions">
+<node CREATED="1274083363905" ID="Freemind_Link_117922610" MODIFIED="1382048951129" STYLE="fork" TEXT="no">
 <font NAME="SansSerif" SIZE="14"/>
-<icon BUILTIN="button_ok"/>
+<icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1256808658741" ID="ID_1130136714" MODIFIED="1398696551169" STYLE="fork" TEXT="utility functions">
+</node>
+<node COLOR="#996600" CREATED="1274083183709" ID="Freemind_Link_1018819688" MODIFIED="1398874471452" TEXT="ControlMode">
 <font NAME="SansSerif" SIZE="14"/>
-<icon BUILTIN="button_ok"/>
-</node>
-<node CREATED="1256808658741" ID="ID_1192306567" MODIFIED="1398696595845" STYLE="fork" TEXT="workflow support">
+<node CREATED="1274083363905" ID="Freemind_Link_883397695" MODIFIED="1398874477428" STYLE="fork" TEXT="is called">
 <font NAME="SansSerif" SIZE="14"/>
-<icon BUILTIN="button_ok"/>
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1274083363905" ID="Freemind_Link_86118328" MODIFIED="1398874479579" STYLE="fork" TEXT="is calling">
+<font NAME="SansSerif" SIZE="14"/>
+<icon BUILTIN="button_cancel"/>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1274083274057" ID="Freemind_Link_569997323" MODIFIED="1398874516522" STYLE="bubble" TEXT="if ControlMode is &quot;yes&quot;">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#996600" CREATED="1274083183709" ID="Freemind_Link_1950510828" MODIFIED="1398874523741" TEXT="HasCustomizableDriver">
+<font NAME="SansSerif" SIZE="14"/>
+<node CREATED="1274083363905" ID="Freemind_Link_1891429209" MODIFIED="1382048949556" STYLE="fork" TEXT="yes">
+<font NAME="SansSerif" SIZE="14"/>
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1274083363905" ID="Freemind_Link_647095124" MODIFIED="1382048951129" STYLE="fork" TEXT="no">
+<font NAME="SansSerif" SIZE="14"/>
+<icon BUILTIN="button_cancel"/>
 </node>
 </node>
 </node>
 </node>
-<node CREATED="1398696378557" ID="ID_490504264" MODIFIED="1398696426501" POSITION="right" TEXT="IGNORE">
-<richcontent TYPE="NOTE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Original tree is here for now.&#160;&#160;It should be ignored by the questionnaire generator.
-    </p>
-  </body>
-</html>
-</richcontent>
-<node CREATED="1398694715600" ID="ID_9" MODIFIED="1398694715600" STYLE="bubble" TEXT="control mode">
-<node CREATED="1398694715600" ID="ID_10" MODIFIED="1398694715600" TEXT="is called">
-<richcontent TYPE="NOTE"><html>
-                        <head/>
-                        <body>
-                            <p>called and calling need to be better defined</p>
-                        </body>
-                    </html></richcontent>
-</node>
-<node CREATED="1398694715600" ID="ID_11" MODIFIED="1398694715600" TEXT="is calling">
-<node CREATED="1398694715600" ID="ID_12" MODIFIED="1398694715600" TEXT="has customizable driver"/>
 </node>
 </node>
-<node CREATED="1398694715600" ID="ID_27" MODIFIED="1398694715600" TEXT="has workflow support"/>
-<node CREATED="1398694715599" ID="ID_7" MODIFIED="1398694715599" TEXT="has components">
-<richcontent TYPE="NOTE"><html>
-                    <head/>
-                    <body>
-                        <p>Missing: support for "aggregation" and "composition"</p>
-                    </body>
-                </html></richcontent>
-<node CREATED="1398694715600" ID="ID_2" MODIFIED="1398694715600" TEXT="has nested components"/>
+<node CREATED="1289310888467" ID="Freemind_Link_1411926899" MODIFIED="1289310962824" POSITION="right" TEXT="Please click on leaf circles to expand the tree-structure">
+<font ITALIC="true" NAME="SansSerif" SIZE="14"/>
 </node>
-<node CREATED="1398694715600" ID="ID_25" MODIFIED="1398694715600" TEXT="has  a graphical user interface"/>
-<node CREATED="1398694715600" ID="ID_23" MODIFIED="1398694715600" TEXT="has utility functions"/>
-<node CREATED="1398694715600" ID="ID_26" MODIFIED="1398694715600" TEXT="has coupling functions"/>
+<node CREATED="1359748014977" ID="Freemind_Link_255019207" MODIFIED="1398874701257" POSITION="left" TEXT="developed by ES-FDL">
+<icon BUILTIN="ksmiletris"/>
 </node>
 </node>
 </map>
