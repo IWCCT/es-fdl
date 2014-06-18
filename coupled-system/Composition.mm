@@ -1,6 +1,6 @@
 <map version="0.9.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1392215512400" ID="ID_67920146" MODIFIED="1392308080724" TEXT="Composition">
+<node CREATED="1392215512400" ID="ID_67920146" MODIFIED="1402685309760" TEXT="Composition">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -110,7 +110,7 @@
 <node COLOR="#000000" CREATED="1392207558876" ID="ID_569955732" MODIFIED="1392317892255" TEXT="adaptive coupling frequency"/>
 <node COLOR="#000000" CREATED="1392212527688" ID="ID_1581350171" MODIFIED="1392317892255" TEXT="event-based"/>
 </node>
-<node COLOR="#000000" CREATED="1392145427993" ID="ID_854474487" MODIFIED="1392318092275" TEXT="decompositions">
+<node COLOR="#000000" CREATED="1392145427993" FOLDED="true" ID="ID_854474487" MODIFIED="1402684000124" TEXT="decompositions">
 <node COLOR="#000000" CREATED="1392039734488" ID="ID_868608893" MODIFIED="1392318056524" TEXT="types of decomposition">
 <node CREATED="1392217800730" ID="ID_644025334" MODIFIED="1392217803481" TEXT="none"/>
 <node COLOR="#000000" CREATED="1392039795902" ID="ID_682029218" MODIFIED="1392318092276" TEXT="apple"/>
@@ -126,7 +126,7 @@
 <node CREATED="1392220963039" ID="ID_1928064641" MODIFIED="1392220995975" TEXT="between two different decompositions"/>
 </node>
 </node>
-<node COLOR="#000000" CREATED="1392039505703" ID="ID_1023750425" MODIFIED="1392317949573" TEXT="grid types ">
+<node COLOR="#000000" CREATED="1392039505703" FOLDED="true" ID="ID_1023750425" MODIFIED="1402683997037" TEXT="grid types ">
 <node CREATED="1392317713769" ID="ID_546042661" MODIFIED="1392317717154" TEXT="geometry">
 <node COLOR="#000000" CREATED="1392039520377" ID="ID_1062534250" MODIFIED="1392317676665" TEXT="regular lat-lon"/>
 <node COLOR="#000000" CREATED="1392039530150" ID="ID_1350405675" MODIFIED="1392317676665" TEXT="logically-rectangular"/>
@@ -146,6 +146,35 @@
 <node COLOR="#000000" CREATED="1392036207315" FOLDED="true" ID="ID_109261423" MODIFIED="1402585384953" POSITION="right" TEXT="has brokering">
 <node COLOR="#006666" CREATED="1392036215490" ID="ID_1310418358" MODIFIED="1392036442929" TEXT="brokers names"/>
 <node COLOR="#006666" CREATED="1392036227264" ID="ID_653851827" MODIFIED="1392036442929" TEXT="brokers units"/>
+</node>
+<node CREATED="1402685311748" ID="ID_1687329676" MODIFIED="1402952777539" POSITION="right" TEXT="modes">
+<node CREATED="1402685351463" ID="ID_552781014" MODIFIED="1402952980361" TEXT="implicit">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Implicit is emergent behaviour. It is supported if a system supports (multiple entry points and entry point sequencing) or (in-place coupling data and concurrent deployment).
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1402953082723" ID="ID_1661256808" MODIFIED="1402953089753" TEXT="semi-implicit"/>
+<node CREATED="1402685355807" ID="ID_493082125" MODIFIED="1402685991300" TEXT="explicit">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Doesn't every system support explicit?
+    </p>
+  </body>
+</html></richcontent>
+<icon BUILTIN="messagebox_warning"/>
+</node>
 </node>
 </node>
 </map>
