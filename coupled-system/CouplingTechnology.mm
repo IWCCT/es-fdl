@@ -1,6 +1,6 @@
-<map version="0.9.0">
+<map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node COLOR="#000000" CREATED="1392222817031" ID="ID_603906891" MODIFIED="1402583207488" TEXT="CouplingTechnology">
+<node COLOR="#000000" CREATED="1392222817031" ID="ID_603906891" MODIFIED="1404137886792" TEXT="CouplingTechnology">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -10,7 +10,8 @@
       Characteristics of the coupling technology used in the coupled system
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node COLOR="#000000" CREATED="1392223766865" ID="ID_1530959434" MODIFIED="1402583541693" POSITION="right" TEXT="architecture">
 <node COLOR="#000000" CREATED="1392224202153" ID="ID_415420767" MODIFIED="1392318396161" TEXT="control">
 <node COLOR="#000000" CREATED="1392032020333" ID="ID_1409515402" MODIFIED="1402582311785" STYLE="bubble" TEXT="control mode">
@@ -60,8 +61,7 @@
       custom means that it works for one instance of a coupled model (e.g. ECMWF's hand coded coupling)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -80,7 +80,7 @@
 <node COLOR="#000000" CREATED="1392036760713" ID="ID_323025261" MODIFIED="1392318835523" TEXT="has MPI"/>
 <node COLOR="#000000" CREATED="1392036780054" ID="ID_1113784367" MODIFIED="1392318835523" TEXT="has OpenMP"/>
 </node>
-<node COLOR="#000000" CREATED="1392052509512" FOLDED="true" ID="ID_1263473379" MODIFIED="1402584078248" TEXT="user friendliness">
+<node COLOR="#000000" CREATED="1392052509512" ID="ID_1263473379" MODIFIED="1404137930150" TEXT="user friendliness">
 <node COLOR="#000000" CREATED="1392051391213" ID="ID_1079817431" MODIFIED="1392318807224" TEXT="code readability (low, medium, high)"/>
 <node COLOR="#000000" CREATED="1392050367989" ID="ID_1072045520" MODIFIED="1392318871841" TEXT="compliance to coding standards and/or other conventions; if so, which ones?"/>
 <node COLOR="#000000" CREATED="1392052558888" ID="ID_1190490565" MODIFIED="1392318807224" TEXT="low entry point, shallow learning curve"/>
@@ -122,7 +122,7 @@
 <node COLOR="#000000" CREATED="1392050821790" ID="ID_1976007703" MODIFIED="1392318807223" TEXT="elapse time"/>
 </node>
 <node COLOR="#000000" CREATED="1392050836550" ID="ID_1836192074" MODIFIED="1392318807223" TEXT="bit reproducibility"/>
-<node COLOR="#000000" CREATED="1392146717836" FOLDED="true" ID="ID_410929682" MODIFIED="1402583962326" TEXT="provides communication context for subsets of components">
+<node COLOR="#000000" CREATED="1392146717836" ID="ID_410929682" MODIFIED="1404137928501" TEXT="provides communication context for subsets of components">
 <node COLOR="#000000" CREATED="1392307898527" ID="ID_1206017840" MODIFIED="1392318807222" TEXT="MPI communicator"/>
 </node>
 <node CREATED="1402583736096" ID="ID_1038485690" MODIFIED="1402583978117" TEXT="Supports Multiple Coupling Technology APIs">
@@ -135,13 +135,12 @@
       Such as OpenMI in ESMF
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
-<node COLOR="#000000" CREATED="1392223758954" FOLDED="true" ID="ID_1883136873" MODIFIED="1402582284428" POSITION="left" TEXT="utilities">
+<node COLOR="#000000" CREATED="1392223758954" ID="ID_1883136873" MODIFIED="1404137888983" POSITION="left" TEXT="utilities">
 <node COLOR="#000000" CREATED="1392223807770" ID="ID_664759677" MODIFIED="1392318396159" TEXT="has a graphical user interface"/>
-<node COLOR="#000000" CREATED="1392051525437" FOLDED="true" ID="ID_1721507835" MODIFIED="1402582244400" TEXT="user support">
+<node COLOR="#000000" CREATED="1392051525437" ID="ID_1721507835" MODIFIED="1404138044156" TEXT="user support">
 <node COLOR="#000000" CREATED="1392051551477" ID="ID_278823376" MODIFIED="1392318396159" TEXT="documentation, user guide"/>
 <node COLOR="#000000" CREATED="1392051566287" ID="ID_977742152" MODIFIED="1392318396159" TEXT="human support by developers (mail, phone, etc.)"/>
 <node COLOR="#000000" CREATED="1392051584100" ID="ID_1382850450" MODIFIED="1392318396158" TEXT="community support, forum, mailing list"/>
@@ -151,7 +150,7 @@
 <node COLOR="#ff0000" CREATED="1392052348911" ID="ID_568392064" MODIFIED="1392321155127" TEXT="has idealized test-cases to check conservation and/or interpolation quality"/>
 <node COLOR="#000000" CREATED="1392053665403" ID="ID_789938041" MODIFIED="1392318396158" TEXT="integration of user contributions"/>
 <node COLOR="#000000" CREATED="1392053762653" ID="ID_1175351476" MODIFIED="1392318396158" TEXT="longevity, stability of developers group"/>
-<node COLOR="#000000" CREATED="1392052954443" ID="ID_1744752408" MODIFIED="1392318396158" TEXT="community take-up">
+<node COLOR="#000000" CREATED="1392052954443" FOLDED="true" ID="ID_1744752408" MODIFIED="1404138072429" TEXT="community take-up">
 <node COLOR="#000000" CREATED="1392304059539" ID="ID_1070916218" MODIFIED="1392318396158" TEXT="is a standard"/>
 </node>
 <node COLOR="#000000" CREATED="1392303982484" ID="ID_1639280467" MODIFIED="1392318396158" TEXT="workshop, training"/>
