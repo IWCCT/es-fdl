@@ -7,10 +7,7 @@
 <node BACKGROUND_COLOR="#ffcc33" CREATED="1382071455854" ID="Freemind_Link_396132494" MODIFIED="1389199580247" TEXT="Note the introduction of the &quot;attach&quot; icon (paperclip); This signifies that the PropertyBundle should be treated as a virtual component by the Questionnaire.">
 <icon BUILTIN="messagebox_warning"/>
 </node>
-<node COLOR="#990099" CREATED="1253796559148" ID="Freemind_Link_969659526" MODIFIED="1405446635406" TEXT="CouplingTechnology_KeyProperties">
-<font BOLD="true" NAME="SansSerif" SIZE="14"/>
-<icon BUILTIN="attach"/>
-<node COLOR="#990099" CREATED="1254486057572" ID="Freemind_Link_26535854" MODIFIED="1406657327830" TEXT="CouplingTechnology_KeyPropertiesAttributes">
+<node COLOR="#990099" CREATED="1254486057572" FOLDED="true" ID="Freemind_Link_26535854" MODIFIED="1407187346947" TEXT="General">
 <font NAME="SansSerif" SIZE="14"/>
 <node COLOR="#996600" CREATED="1405446234419" ID="ID_816465241" MODIFIED="1405446305907" STYLE="bubble" TEXT="OpenSource">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
@@ -45,7 +42,7 @@
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font BOLD="true" NAME="SansSerif" SIZE="14"/>
 <icon BUILTIN="attach"/>
-<node COLOR="#990099" CREATED="1405435893421" FOLDED="true" ID="ID_339041249" MODIFIED="1406651617771" STYLE="bubble" TEXT="Design">
+<node COLOR="#990099" CREATED="1405435893421" FOLDED="true" ID="ID_339041249" MODIFIED="1407189315152" STYLE="bubble" TEXT="Design">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
 <node COLOR="#996600" CREATED="1233141022285" ID="ID_704887815" MODIFIED="1398696662836" STYLE="bubble" TEXT="DesignIntent">
@@ -85,7 +82,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#990099" CREATED="1405436610106" FOLDED="true" ID="ID_1026734438" MODIFIED="1406651607236" STYLE="bubble" TEXT="Components">
+<node COLOR="#990099" CREATED="1405436610106" FOLDED="true" ID="ID_1026734438" MODIFIED="1407189318511" STYLE="bubble" TEXT="Components">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
 <node COLOR="#996600" CREATED="1405438204574" ID="ID_480309160" MODIFIED="1405438218090" STYLE="bubble" TEXT="Components">
@@ -249,11 +246,11 @@
 </node>
 </node>
 </node>
-<node COLOR="#990099" CREATED="1405439804725" FOLDED="true" ID="ID_1445165226" MODIFIED="1406651576043" STYLE="bubble" TEXT="Support">
+<node COLOR="#990099" CREATED="1405439804725" ID="ID_1445165226" MODIFIED="1407189302317" STYLE="bubble" TEXT="Support">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font BOLD="true" NAME="SansSerif" SIZE="14"/>
 <icon BUILTIN="attach"/>
-<node COLOR="#990099" CREATED="1405443688946" FOLDED="true" ID="ID_1676368816" MODIFIED="1405526317592" STYLE="bubble" TEXT="UserSupport">
+<node COLOR="#990099" CREATED="1405443688946" FOLDED="true" ID="ID_1676368816" MODIFIED="1407189312017" STYLE="bubble" TEXT="UserSupport">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
 <node COLOR="#996600" CREATED="1405443798980" ID="ID_366545827" MODIFIED="1405443812328" STYLE="bubble" TEXT="Documentation">
@@ -339,7 +336,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#990099" CREATED="1405443688946" FOLDED="true" ID="ID_875723225" MODIFIED="1405526319792" STYLE="bubble" TEXT="DeveloperSupport">
+<node COLOR="#990099" CREATED="1405443688946" FOLDED="true" ID="ID_875723225" MODIFIED="1407189310887" STYLE="bubble" TEXT="DeveloperSupport">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
 <node COLOR="#996600" CREATED="1405445961989" ID="ID_1419362814" MODIFIED="1405446140980" STYLE="bubble" TEXT="DeveloperDocumentation">
@@ -372,87 +369,129 @@
 </node>
 </node>
 </node>
-<node COLOR="#990099" CREATED="1405447041110" ID="ID_1458258540" MODIFIED="1405526183154" STYLE="bubble" TEXT="Composition">
+<node COLOR="#990099" CREATED="1405447041110" ID="ID_1458258540" MODIFIED="1407187311685" STYLE="bubble" TEXT="Composition">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font BOLD="true" NAME="SansSerif" SIZE="14"/>
 <icon BUILTIN="attach"/>
-<node COLOR="#990099" CREATED="1405447066646" FOLDED="true" ID="ID_1949209305" MODIFIED="1406652006338" STYLE="bubble" TEXT="DataTransport">
+<node COLOR="#990099" CREATED="1405447066646" ID="ID_1949209305" MODIFIED="1407188967448" STYLE="bubble" TEXT="DataTransport">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<font BOLD="true" NAME="SansSerif" SIZE="14"/>
+<icon BUILTIN="attach"/>
+<node COLOR="#990099" CREATED="1405457664113" ID="ID_1702884740" MODIFIED="1407188569432" STYLE="bubble" TEXT="Grid">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
-<node COLOR="#990099" CREATED="1405457664113" ID="ID_250254213" MODIFIED="1406651624929" STYLE="bubble" TEXT="Grid">
-<richcontent TYPE="NOTE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Compare with Gridspec
-    </p>
-  </body>
-</html></richcontent>
-<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
-<font NAME="SansSerif" SIZE="14"/>
-<node COLOR="#996600" CREATED="1392317713769" ID="ID_546042661" MODIFIED="1405457759880" STYLE="bubble" TEXT="Geometry">
+<node COLOR="#996600" CREATED="1407188571787" ID="ID_937172445" MODIFIED="1407188593500" STYLE="bubble" TEXT="MultiTileSupport">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="Dialog" SIZE="14"/>
-<node COLOR="#000000" CREATED="1392039520377" ID="ID_1062534250" MODIFIED="1405457772292" STYLE="fork" TEXT="regular lat-lon">
+<node CREATED="1405446048559" ID="ID_549284625" MODIFIED="1405446146751" STYLE="fork" TEXT="yes">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1405446056225" ID="ID_630018260" MODIFIED="1405446147638" STYLE="fork" TEXT="no">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+<icon BUILTIN="button_cancel"/>
+</node>
+</node>
+<node COLOR="#996600" CREATED="1407188647195" ID="ID_1524450747" MODIFIED="1407188657175" STYLE="bubble" TEXT="TopologicalStructure">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<font NAME="Dialog" SIZE="14"/>
+<node COLOR="#000000" CREATED="1407188661290" ID="ID_1564919585" MODIFIED="1407188701668" STYLE="fork" TEXT="logically rectangular">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
 <icon BUILTIN="button_ok"/>
 </node>
-<node COLOR="#000000" CREATED="1392039530150" ID="ID_1350405675" MODIFIED="1405457772286" STYLE="fork" TEXT="logically-rectangular">
+<node COLOR="#000000" CREATED="1407188671377" ID="ID_891013535" MODIFIED="1407188702340" STYLE="fork" TEXT="unstructured">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
 <icon BUILTIN="button_ok"/>
 </node>
-<node COLOR="#000000" CREATED="1392039542474" ID="ID_1837340679" MODIFIED="1405457772281" STYLE="fork" TEXT="quasi-uniform">
-<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
-<font NAME="SansSerif" SIZE="14"/>
-<icon BUILTIN="button_ok"/>
-</node>
-<node COLOR="#000000" CREATED="1392039550100" ID="ID_1463241076" MODIFIED="1405457772276" STYLE="fork" TEXT="unstructured">
+<node COLOR="#000000" CREATED="1407188683431" ID="ID_1869324035" MODIFIED="1407188702917" STYLE="fork" TEXT="location stream">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
 <icon BUILTIN="button_ok"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1392039697880" ID="ID_1001031356" MODIFIED="1405518973610" STYLE="bubble" TEXT="Masking">
+<node COLOR="#996600" CREATED="1407188850166" ID="ID_1819304803" MODIFIED="1407189063099" STYLE="bubble" TEXT="CoordinateSystem">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="Dialog" SIZE="14"/>
-<node CREATED="1405446048559" ID="ID_860213143" MODIFIED="1405446146751" STYLE="fork" TEXT="yes">
+<node COLOR="#000000" CREATED="1407188858247" ID="ID_1944858254" MODIFIED="1407188869240" STYLE="fork" TEXT="Cartesian">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
-<icon BUILTIN="button_cancel"/>
+<icon BUILTIN="button_ok"/>
 </node>
-<node CREATED="1405446056225" ID="ID_233302110" MODIFIED="1405446147638" STYLE="fork" TEXT="no">
+<node COLOR="#000000" CREATED="1407188862373" ID="ID_635362446" MODIFIED="1407188870008" STYLE="fork" TEXT="spherical">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
-<icon BUILTIN="button_cancel"/>
+<icon BUILTIN="button_ok"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1392046350175" ID="ID_670872000" MODIFIED="1405522760012" STYLE="bubble" TEXT="Adaptive">
+<node COLOR="#996600" CREATED="1407189051666" ID="ID_1786045236" MODIFIED="1407189061842" STYLE="bubble" TEXT="DistanceMeasure">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="Dialog" SIZE="14"/>
-<node CREATED="1405446048559" ID="ID_1075037320" MODIFIED="1405446146751" STYLE="fork" TEXT="yes">
+<node COLOR="#000000" CREATED="1407189072662" ID="ID_281676652" MODIFIED="1407189092882" STYLE="fork" TEXT="straight line">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
-<icon BUILTIN="button_cancel"/>
+<icon BUILTIN="button_ok"/>
 </node>
-<node CREATED="1405446056225" ID="ID_1594754914" MODIFIED="1405446147638" STYLE="fork" TEXT="no">
+<node COLOR="#000000" CREATED="1407189077966" ID="ID_859629171" MODIFIED="1407189093390" STYLE="fork" TEXT="great circle">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
-<icon BUILTIN="button_cancel"/>
+<icon BUILTIN="button_ok"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1402585064508" ID="ID_1243683299" MODIFIED="1405522763667" STYLE="bubble" TEXT="NonConformal">
+<node COLOR="#996600" CREATED="1407188736344" ID="ID_796407613" MODIFIED="1407188744363" STYLE="bubble" TEXT="Nesting">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="Dialog" SIZE="14"/>
-<node CREATED="1405446048559" ID="ID_501592145" MODIFIED="1405446146751" STYLE="fork" TEXT="yes">
+<node CREATED="1405446048559" ID="ID_1389522496" MODIFIED="1405446146751" STYLE="fork" TEXT="yes">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
 <icon BUILTIN="button_cancel"/>
 </node>
-<node CREATED="1405446056225" ID="ID_1321286992" MODIFIED="1405525627392" STYLE="fork" TEXT="no">
+<node CREATED="1405446056225" ID="ID_132761705" MODIFIED="1405446147638" STYLE="fork" TEXT="no">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+<icon BUILTIN="button_cancel"/>
+</node>
+</node>
+<node COLOR="#996600" CREATED="1392039697880" ID="ID_105647983" MODIFIED="1405518973610" STYLE="bubble" TEXT="Masking">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<font NAME="Dialog" SIZE="14"/>
+<node CREATED="1405446048559" ID="ID_1010387341" MODIFIED="1405446146751" STYLE="fork" TEXT="yes">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1405446056225" ID="ID_1224762400" MODIFIED="1405446147638" STYLE="fork" TEXT="no">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+<icon BUILTIN="button_cancel"/>
+</node>
+</node>
+<node COLOR="#996600" CREATED="1392046350175" ID="ID_415327575" MODIFIED="1406656859695" STYLE="bubble" TEXT="Adaptive">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<font NAME="Dialog" SIZE="14"/>
+<node CREATED="1405446048559" ID="ID_1496312684" MODIFIED="1405446146751" STYLE="fork" TEXT="yes">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1405446056225" ID="ID_829483530" MODIFIED="1405446147638" STYLE="fork" TEXT="no">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+<icon BUILTIN="button_cancel"/>
+</node>
+</node>
+<node COLOR="#996600" CREATED="1402585064508" ID="ID_710194255" MODIFIED="1406656881647" STYLE="bubble" TEXT="NonConformal">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<font NAME="Dialog" SIZE="14"/>
+<node CREATED="1405446048559" ID="ID_1865308272" MODIFIED="1405446146751" STYLE="fork" TEXT="yes">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1405446056225" ID="ID_1444809519" MODIFIED="1405525627392" STYLE="fork" TEXT="no">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
 <icon BUILTIN="button_cancel"/>
@@ -549,10 +588,11 @@
 </node>
 </node>
 </node>
-<node COLOR="#990099" CREATED="1405954890960" ID="ID_1209362377" MODIFIED="1406655345420" STYLE="bubble" TEXT="DataTransformation">
+<node COLOR="#990099" CREATED="1405954890960" ID="ID_1209362377" MODIFIED="1407188347146" STYLE="bubble" TEXT="DataTransformation">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
-<font NAME="SansSerif" SIZE="14"/>
-<node COLOR="#990099" CREATED="1405955017340" ID="ID_1820531080" MODIFIED="1406655398307" STYLE="bubble" TEXT="Spatial">
+<font BOLD="true" NAME="SansSerif" SIZE="14"/>
+<icon BUILTIN="attach"/>
+<node COLOR="#990099" CREATED="1405955017340" ID="ID_1820531080" MODIFIED="1407188253073" STYLE="bubble" TEXT="Spatial">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
 <node COLOR="#990099" CREATED="1405961716813" ID="ID_1786290435" MODIFIED="1406652392789" STYLE="bubble" TEXT="Regridding">
@@ -572,7 +612,7 @@
 <icon BUILTIN="button_cancel"/>
 </node>
 </node>
-<node COLOR="#990099" CREATED="1405957359759" ID="ID_1379350250" MODIFIED="1406655530729" STYLE="bubble" TEXT="InterpolationWeightGeneration">
+<node COLOR="#990099" CREATED="1405957359759" ID="ID_1379350250" MODIFIED="1407189176146" STYLE="bubble" TEXT="InterpolationWeightGeneration">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
 <node COLOR="#996600" CREATED="1405955135130" ID="ID_1931632552" MODIFIED="1405959238148" STYLE="bubble" TEXT="InterpolationMethod">
@@ -620,7 +660,7 @@
 <node COLOR="#996600" CREATED="1405956413809" ID="ID_1237677380" MODIFIED="1405957162294" STYLE="bubble" TEXT="Online">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
-<node COLOR="#000000" CREATED="1392214483375" ID="ID_463452002" MODIFIED="1405957166295" STYLE="fork" TEXT="sequential">
+<node COLOR="#000000" CREATED="1392214483375" ID="ID_463452002" MODIFIED="1407188279780" STYLE="fork" TEXT="serial">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
 <icon BUILTIN="button_ok"/>
@@ -639,7 +679,7 @@
 <node COLOR="#996600" CREATED="1405956418804" ID="ID_383006461" MODIFIED="1406655818238" STYLE="bubble" TEXT="Offline">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
-<node COLOR="#000000" CREATED="1392214483375" ID="ID_762942658" MODIFIED="1405957166295" STYLE="fork" TEXT="sequential">
+<node COLOR="#000000" CREATED="1392214483375" ID="ID_762942658" MODIFIED="1407188285118" STYLE="fork" TEXT="serial">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
 <icon BUILTIN="button_ok"/>
@@ -652,7 +692,10 @@
 </node>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1405959213792" ID="ID_1588712322" MODIFIED="1406656040869" STYLE="bubble" TEXT="InterpolationWeightApplication">
+<node COLOR="#990099" CREATED="1407188421641" ID="ID_1108764775" MODIFIED="1407188437002" STYLE="bubble" TEXT="InterpolationWeightApplication">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#996600" CREATED="1405959213792" ID="ID_1588712322" MODIFIED="1407188449099" STYLE="bubble" TEXT="InterpolationMethod">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
 <node COLOR="#000000" CREATED="1392147552762" ID="ID_69180924" MODIFIED="1405955501744" STYLE="fork" TEXT="nearest neighbour">
@@ -691,31 +734,97 @@
 <icon BUILTIN="button_ok"/>
 </node>
 </node>
-<node COLOR="#990099" CREATED="1405457664113" ID="ID_774996753" MODIFIED="1406129725230" STYLE="bubble" TEXT="Grid">
+<node COLOR="#996600" CREATED="1407188450938" ID="ID_866176616" MODIFIED="1407188462430" STYLE="bubble" TEXT="Application">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
-<node COLOR="#996600" CREATED="1392317713769" ID="ID_725023398" MODIFIED="1406656711170" STYLE="bubble" TEXT="Geometry">
+<node COLOR="#000000" CREATED="1407188463932" ID="ID_1218368788" MODIFIED="1407188532124" STYLE="fork" TEXT="file-to-file">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+<icon BUILTIN="button_ok"/>
+</node>
+<node COLOR="#000000" CREATED="1407188468621" ID="ID_180827908" MODIFIED="1407188532953" STYLE="fork" TEXT="online">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+</node>
+<node COLOR="#990099" CREATED="1405457664113" ID="ID_774996753" MODIFIED="1407188569432" STYLE="bubble" TEXT="Grid">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#996600" CREATED="1407188571787" ID="ID_936837706" MODIFIED="1407188593500" STYLE="bubble" TEXT="MultiTileSupport">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="Dialog" SIZE="14"/>
-<node COLOR="#000000" CREATED="1392039520377" ID="ID_550178683" MODIFIED="1405960097147" STYLE="fork" TEXT="regular lat-lon">
+<node CREATED="1405446048559" ID="ID_305895407" MODIFIED="1405446146751" STYLE="fork" TEXT="yes">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1405446056225" ID="ID_1525889054" MODIFIED="1405446147638" STYLE="fork" TEXT="no">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+<icon BUILTIN="button_cancel"/>
+</node>
+</node>
+<node COLOR="#996600" CREATED="1407188647195" ID="ID_790316279" MODIFIED="1407188657175" STYLE="bubble" TEXT="TopologicalStructure">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<font NAME="Dialog" SIZE="14"/>
+<node COLOR="#000000" CREATED="1407188661290" ID="ID_1823057014" MODIFIED="1407188701668" STYLE="fork" TEXT="logically rectangular">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
 <icon BUILTIN="button_ok"/>
 </node>
-<node COLOR="#000000" CREATED="1392039530150" ID="ID_1644598530" MODIFIED="1405457772286" STYLE="fork" TEXT="logically-rectangular">
+<node COLOR="#000000" CREATED="1407188671377" ID="ID_420996679" MODIFIED="1407188702340" STYLE="fork" TEXT="unstructured">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
 <icon BUILTIN="button_ok"/>
 </node>
-<node COLOR="#000000" CREATED="1392039542474" ID="ID_1130610817" MODIFIED="1405457772281" STYLE="fork" TEXT="quasi-uniform">
+<node COLOR="#000000" CREATED="1407188683431" ID="ID_1372562325" MODIFIED="1407188702917" STYLE="fork" TEXT="location stream">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
 <icon BUILTIN="button_ok"/>
 </node>
-<node COLOR="#000000" CREATED="1392039550100" ID="ID_1652079368" MODIFIED="1405457772276" STYLE="fork" TEXT="unstructured">
+</node>
+<node COLOR="#996600" CREATED="1407188850166" ID="ID_1490723371" MODIFIED="1407189063099" STYLE="bubble" TEXT="CoordinateSystem">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<font NAME="Dialog" SIZE="14"/>
+<node COLOR="#000000" CREATED="1407188858247" ID="ID_307118448" MODIFIED="1407188869240" STYLE="fork" TEXT="Cartesian">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
 <icon BUILTIN="button_ok"/>
+</node>
+<node COLOR="#000000" CREATED="1407188862373" ID="ID_1670551909" MODIFIED="1407188870008" STYLE="fork" TEXT="spherical">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node COLOR="#996600" CREATED="1407189051666" ID="ID_1934331721" MODIFIED="1407189061842" STYLE="bubble" TEXT="DistanceMeasure">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<font NAME="Dialog" SIZE="14"/>
+<node COLOR="#000000" CREATED="1407189072662" ID="ID_650620485" MODIFIED="1407189092882" STYLE="fork" TEXT="straight line">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+<icon BUILTIN="button_ok"/>
+</node>
+<node COLOR="#000000" CREATED="1407189077966" ID="ID_643500061" MODIFIED="1407189093390" STYLE="fork" TEXT="great circle">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node COLOR="#996600" CREATED="1407188736344" ID="ID_1816045555" MODIFIED="1407188744363" STYLE="bubble" TEXT="Nesting">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<font NAME="Dialog" SIZE="14"/>
+<node CREATED="1405446048559" ID="ID_1976366399" MODIFIED="1405446146751" STYLE="fork" TEXT="yes">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1405446056225" ID="ID_1448412733" MODIFIED="1405446147638" STYLE="fork" TEXT="no">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+<icon BUILTIN="button_cancel"/>
 </node>
 </node>
 <node COLOR="#996600" CREATED="1392039697880" ID="ID_1025636667" MODIFIED="1405518973610" STYLE="bubble" TEXT="Masking">
@@ -811,9 +920,23 @@
 <icon BUILTIN="button_cancel"/>
 </node>
 </node>
+<node COLOR="#996600" CREATED="1407188919222" ID="ID_1695490285" MODIFIED="1407188928309" STYLE="bubble" TEXT="UngriddedDimensions">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<font NAME="Dialog" SIZE="14"/>
+<node CREATED="1405446048559" ID="ID_425112776" MODIFIED="1405446146751" STYLE="fork" TEXT="yes">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+<icon BUILTIN="button_cancel"/>
+</node>
+<node CREATED="1405446056225" ID="ID_1479789979" MODIFIED="1405525627392" STYLE="fork" TEXT="no">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+<icon BUILTIN="button_cancel"/>
 </node>
 </node>
-<node COLOR="#990099" CREATED="1405961732839" FOLDED="true" ID="ID_370940125" MODIFIED="1406657725463" STYLE="bubble" TEXT="Mediation">
+</node>
+</node>
+<node COLOR="#990099" CREATED="1405961732839" FOLDED="true" ID="ID_370940125" MODIFIED="1407189171137" STYLE="bubble" TEXT="Mediation">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
 <node COLOR="#996600" CREATED="1392047223481" ID="ID_1585004818" MODIFIED="1405961827225" STYLE="bubble" TEXT="Land-ocean coastline consistency checking">
@@ -894,7 +1017,6 @@
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
 <icon BUILTIN="button_ok"/>
-</node>
 </node>
 </node>
 </node>
