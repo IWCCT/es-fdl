@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1392215512400" ID="ID_67920146" MODIFIED="1406651912289" TEXT="Composition">
+<node CREATED="1392215512400" ID="ID_67920146" MODIFIED="1412003365678" TEXT="Composition">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -33,7 +33,7 @@
 <node COLOR="#000000" CREATED="1392039033579" ID="ID_764529754" MODIFIED="1405957223803" TEXT="sparse matrix multiplication">
 <icon BUILTIN="button_ok"/>
 </node>
-<node COLOR="#000000" CREATED="1392036052064" FOLDED="true" ID="ID_421958768" MODIFIED="1405959514432" TEXT="interpolation weight generation">
+<node COLOR="#000000" CREATED="1392036052064" ID="ID_421958768" MODIFIED="1412003374721" TEXT="interpolation weight generation">
 <icon BUILTIN="button_ok"/>
 <node CREATED="1392317468567" ID="ID_1804540939" MODIFIED="1405446852803" TEXT="W&amp;A types">
 <node COLOR="#000000" CREATED="1392147552762" ID="ID_13764890" MODIFIED="1392317499160" TEXT="has nearest neighbour regridding"/>
@@ -56,7 +56,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#000000" CREATED="1392039139689" FOLDED="true" ID="ID_1504249035" MODIFIED="1405959512142" TEXT="use of pre-generated W&amp;A file">
+<node COLOR="#000000" CREATED="1392039139689" ID="ID_1504249035" MODIFIED="1412003373002" TEXT="use of pre-generated W&amp;A file">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -79,7 +79,7 @@
 <node COLOR="#000000" CREATED="1392147579776" ID="ID_690716079" MODIFIED="1392317499160" TEXT="supports extrapolation outside source domain"/>
 </node>
 </node>
-<node COLOR="#000000" CREATED="1392039505703" FOLDED="true" ID="ID_298413617" MODIFIED="1405959940913" TEXT="grid types ">
+<node COLOR="#000000" CREATED="1392039505703" ID="ID_298413617" MODIFIED="1412003371618" TEXT="grid types ">
 <icon BUILTIN="button_ok"/>
 <node CREATED="1392317713769" ID="ID_722611685" MODIFIED="1392317717154" TEXT="geometry">
 <node COLOR="#000000" CREATED="1392039520377" ID="ID_246048135" MODIFIED="1392317676665" TEXT="regular lat-lon"/>
