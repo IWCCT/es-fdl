@@ -295,17 +295,7 @@
 <icon BUILTIN="button_ok"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1414696003148" ID="ID_1847452863" MODIFIED="1416335420696" STYLE="bubble">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      ModelMetadataFlow
-    </p>
-  </body>
-</html></richcontent>
+<node COLOR="#996600" CREATED="1405438204574" ID="ID_1262631822" MODIFIED="1418759616986" STYLE="bubble" TEXT="ModelMetadataFlow">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -315,21 +305,22 @@
       What direction does model metadata flow with respect to the infrastructure?&#160;&#160;(e.g., who reads the configuration file?)
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
-<font NAME="SansSerif" SIZE="14"/>
-<node BACKGROUND_COLOR="#ffffff" COLOR="#000000" CREATED="1414696020992" ID="ID_701977397" MODIFIED="1414696120063" STYLE="fork" TEXT="metadata flows from model components to infrastructure/driver">
-<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
-<font NAME="SansSerif" SIZE="14"/>
-<icon BUILTIN="button_ok"/>
-</node>
-<node BACKGROUND_COLOR="#ffffff" COLOR="#000000" CREATED="1414696034311" ID="ID_1825273398" MODIFIED="1414696120554" STYLE="fork" TEXT="metadata flows from driver/infrastructure to model components">
+<font NAME="Dialog" SIZE="14"/>
+<node BACKGROUND_COLOR="#ffffff" COLOR="#000000" CREATED="1405438302786" ID="ID_1260101812" MODIFIED="1418759628142" STYLE="fork" TEXT="metadata flows from model components to infrastructure/driver">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
 <icon BUILTIN="button_ok"/>
 </node>
+<node COLOR="#000000" CREATED="1412002559989" ID="ID_65407909" MODIFIED="1418759638204" STYLE="fork" TEXT="metadata flows from driver/infrastructure to model components">
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+<icon BUILTIN="button_ok"/>
 </node>
-<node COLOR="#996600" CREATED="1414680273711" ID="ID_1261912734" MODIFIED="1414696783474" STYLE="bubble" TEXT="ModelMetadataProvision">
+</node>
+<node COLOR="#996600" CREATED="1414680273711" ID="ID_1261912734" MODIFIED="1418759585423" STYLE="bubble" TEXT="ModelMetadataProvision">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -339,7 +330,8 @@
       How is model metadata provided to the infrastructure?
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
 <node COLOR="#000000" CREATED="1414680302566" ID="ID_1828593757" MODIFIED="1416335524337" STYLE="fork" TEXT="at runtime via API calls">
@@ -363,7 +355,7 @@
 <icon BUILTIN="button_ok"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1414680968839" ID="ID_324836370" MODIFIED="1416335480428" STYLE="bubble" TEXT="ModelMetadataProvisionFormats">
+<node COLOR="#996600" CREATED="1414680968839" ID="ID_324836370" MODIFIED="1418759584293" STYLE="bubble" TEXT="ModelMetadataProvisionFormats">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -373,14 +365,15 @@
       List any standard metadata formats that the infrastructure can read.
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
 <node CREATED="1405446283262" ID="ID_337937090" MODIFIED="1405446306712" TEXT="">
 <icon BUILTIN="pencil"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1412003249250" ID="ID_1136575328" MODIFIED="1416335578172" STYLE="bubble" TEXT="ModelMetadataRuntimeQuery">
+<node COLOR="#996600" CREATED="1412003249250" ID="ID_1136575328" MODIFIED="1418759583311" STYLE="bubble" TEXT="ModelMetadataRuntimeQuery">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -390,7 +383,8 @@
       What model metadata can be queried at runtime?
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
 <node COLOR="#000000" CREATED="1412003285284" ID="ID_254573437" MODIFIED="1412003486583" STYLE="fork" TEXT="temporal metadata (e.g., time step length)">
@@ -424,7 +418,7 @@
 <icon BUILTIN="button_ok"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1414615134149" ID="ID_965786931" MODIFIED="1414696834169" STYLE="bubble" TEXT="ModelMetadataStaticQuery">
+<node COLOR="#996600" CREATED="1414615134149" ID="ID_965786931" MODIFIED="1418759582347" STYLE="bubble" TEXT="ModelMetadataStaticQuery">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -434,7 +428,8 @@
       What model metadata can be retrieved statically, before execution?
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
 <node COLOR="#000000" CREATED="1412003285284" ID="ID_636753592" MODIFIED="1412003486583" STYLE="fork" TEXT="temporal metadata (e.g., time step length)">
@@ -468,7 +463,7 @@
 <icon BUILTIN="button_ok"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1414680464926" ID="ID_88233716" MODIFIED="1415118802904" STYLE="bubble" TEXT="MetadataOutput">
+<node COLOR="#996600" CREATED="1414680464926" ID="ID_88233716" MODIFIED="1418759581859" STYLE="bubble" TEXT="MetadataOutput">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -478,7 +473,8 @@
       If the infrastructure outputs metadata, what formats are supported?
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
 <node COLOR="#000000" CREATED="1414680474326" ID="ID_557240459" MODIFIED="1414680506787" STYLE="fork" TEXT="in an infrastructure-specific format">
@@ -492,7 +488,7 @@
 <icon BUILTIN="button_ok"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1414681011116" ID="ID_698091776" MODIFIED="1415118804573" STYLE="bubble" TEXT="MetadataOutputFormats">
+<node COLOR="#996600" CREATED="1414681011116" ID="ID_698091776" MODIFIED="1418759580888" STYLE="bubble" TEXT="MetadataOutputFormats">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -502,7 +498,8 @@
       List any standard metadata formats that the infrastructure can output.
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
 <node CREATED="1405446283262" ID="ID_1584808598" MODIFIED="1405446306712" TEXT="">
@@ -510,7 +507,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#990099" CREATED="1414684407816" ID="ID_1535995053" MODIFIED="1416344291251" STYLE="bubble" TEXT="MediationAndServiceComponents">
+<node COLOR="#990099" CREATED="1414684407816" FOLDED="true" ID="ID_1535995053" MODIFIED="1418759518959" STYLE="bubble" TEXT="MediationAndServiceComponents">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
 <node COLOR="#996600" CREATED="1416332199613" ID="ID_922347347" MODIFIED="1416335245681" STYLE="bubble" TEXT="MediationProvided">
