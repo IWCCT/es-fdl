@@ -10,8 +10,7 @@
       Everything about putting components together
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node COLOR="#000000" CREATED="1392036172953" ID="ID_116204885" MODIFIED="1426646806798" POSITION="left" TEXT="has time and calendar management">
 <node COLOR="#000000" CREATED="1392047428320" ID="ID_277947028" MODIFIED="1392316009946" TEXT="type of calendars supported"/>
 <node COLOR="#000000" CREATED="1392047473669" ID="ID_1354895357" MODIFIED="1392316009946" TEXT="lenght of time supported"/>
@@ -29,7 +28,7 @@
 </node>
 <node CREATED="1392216737428" ID="ID_1772931773" MODIFIED="1426651541620" POSITION="right" TEXT=" data transformation">
 <node CREATED="1392216754129" ID="ID_119013853" MODIFIED="1392216765651" TEXT="spatial">
-<node COLOR="#000000" CREATED="1392038951944" FOLDED="true" ID="ID_123024699" MODIFIED="1426651568787" TEXT="regridding">
+<node COLOR="#000000" CREATED="1392038951944" ID="ID_123024699" MODIFIED="1428885959411" TEXT="regridding">
 <node COLOR="#000000" CREATED="1392039033579" ID="ID_764529754" MODIFIED="1405957223803" TEXT="sparse matrix multiplication">
 <icon BUILTIN="button_ok"/>
 </node>

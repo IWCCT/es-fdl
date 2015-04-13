@@ -10,8 +10,7 @@
       Characteristics of the coupling technology used in the coupled system
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node BACKGROUND_COLOR="#ffcc33" COLOR="#000000" CREATED="1405436153110" ID="ID_597385160" MODIFIED="1405439220019" POSITION="right" STYLE="bubble" TEXT="The green check icon idicates that the node (and subnodes) has been accounted for on the ES-FDL questionnaire.">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <icon BUILTIN="messagebox_warning"/>
@@ -171,46 +170,27 @@
 <node COLOR="#000000" CREATED="1392223758954" ID="ID_1883136873" MODIFIED="1404137888983" POSITION="left" TEXT="utilities">
 <node COLOR="#000000" CREATED="1392223807770" ID="ID_664759677" MODIFIED="1392318396159" TEXT="has a graphical user interface"/>
 <node COLOR="#000000" CREATED="1392051525437" ID="ID_1721507835" MODIFIED="1404138044156" TEXT="user support">
-<node COLOR="#000000" CREATED="1392051551477" ID="ID_278823376" MODIFIED="1405443933002" TEXT="documentation, user guide">
-<icon BUILTIN="button_ok"/>
-</node>
-<node COLOR="#000000" CREATED="1392051566287" ID="ID_977742152" MODIFIED="1405444425982" TEXT="human support by developers (mail, phone, etc.)">
-<icon BUILTIN="button_ok"/>
-</node>
-<node COLOR="#000000" CREATED="1392051584100" ID="ID_1382850450" MODIFIED="1405444445946" TEXT="community support, forum, mailing list">
-<icon BUILTIN="button_ok"/>
-</node>
-<node COLOR="#000000" CREATED="1392051613065" ID="ID_790705801" MODIFIED="1405444499857" TEXT="quality of prioritization of user requests / issue tracking used">
-<icon BUILTIN="button_ok"/>
-</node>
-<node COLOR="#000000" CREATED="1392053401450" ID="ID_1690937010" MODIFIED="1405444494994" TEXT="use of version control">
-<icon BUILTIN="button_ok"/>
-</node>
-<node COLOR="#000000" CREATED="1392053592478" ID="ID_1282897583" MODIFIED="1405444226095" TEXT="comes with toy models">
-<icon BUILTIN="button_ok"/>
-</node>
+<node COLOR="#000000" CREATED="1392051551477" ID="ID_278823376" MODIFIED="1428886055174" TEXT="documentation, user guide"/>
+<node COLOR="#000000" CREATED="1392051566287" ID="ID_977742152" MODIFIED="1428886055175" TEXT="human support by developers (mail, phone, etc.)"/>
+<node COLOR="#000000" CREATED="1392051584100" ID="ID_1382850450" MODIFIED="1428886055175" TEXT="community support, forum, mailing list"/>
+<node COLOR="#000000" CREATED="1392051613065" ID="ID_790705801" MODIFIED="1428886055175" TEXT="quality of prioritization of user requests / issue tracking used"/>
+<node COLOR="#000000" CREATED="1392053401450" ID="ID_1690937010" MODIFIED="1428886055175" TEXT="use of version control"/>
+<node COLOR="#000000" CREATED="1392053592478" ID="ID_1282897583" MODIFIED="1428886055175" TEXT="comes with toy models"/>
 <node COLOR="#ff0000" CREATED="1392052348911" ID="ID_568392064" MODIFIED="1392321155127" TEXT="has idealized test-cases to check conservation and/or interpolation quality"/>
-<node COLOR="#000000" CREATED="1392053665403" ID="ID_789938041" MODIFIED="1405444660648" TEXT="integration of user contributions">
-<icon BUILTIN="button_ok"/>
-</node>
+<node COLOR="#000000" CREATED="1392053665403" ID="ID_789938041" MODIFIED="1428886055175" TEXT="integration of user contributions"/>
 <node COLOR="#000000" CREATED="1392053762653" ID="ID_1175351476" MODIFIED="1392318396158" TEXT="longevity, stability of developers group"/>
 <node COLOR="#000000" CREATED="1392052954443" ID="ID_1744752408" MODIFIED="1405443435899" TEXT="community take-up">
 <node COLOR="#000000" CREATED="1392304059539" ID="ID_1070916218" MODIFIED="1392318396158" TEXT="is a standard"/>
 </node>
-<node COLOR="#000000" CREATED="1392303982484" ID="ID_1639280467" MODIFIED="1405445128790" TEXT="workshop, training">
-<icon BUILTIN="button_ok"/>
-</node>
+<node COLOR="#000000" CREATED="1392303982484" ID="ID_1639280467" MODIFIED="1428886055175" TEXT="workshop, training"/>
 <node COLOR="#ff0000" CREATED="1392048791940" ID="ID_215070023" MODIFIED="1392320229349" TEXT="configuration management"/>
 <node COLOR="#ff0000" CREATED="1392049719214" ID="ID_724162322" MODIFIED="1392320310864" TEXT="offers case management"/>
 </node>
-<node COLOR="#000000" CREATED="1392053227360" ID="ID_178510391" MODIFIED="1405446224723" TEXT="developer support">
-<icon BUILTIN="button_ok"/>
+<node COLOR="#000000" CREATED="1392053227360" ID="ID_178510391" MODIFIED="1428886059000" TEXT="developer support">
 <node COLOR="#000000" CREATED="1392053509800" ID="ID_1117652158" MODIFIED="1392318396157" TEXT="has programming guide"/>
 <node COLOR="#000000" CREATED="1392053554538" ID="ID_44453050" MODIFIED="1392318396157" TEXT="comes with unit test "/>
 </node>
-<node COLOR="#000000" CREATED="1392053845810" ID="ID_1355748054" MODIFIED="1405446378265" TEXT="free licence ; public access to the code">
-<icon BUILTIN="button_ok"/>
-</node>
+<node COLOR="#000000" CREATED="1392053845810" ID="ID_1355748054" MODIFIED="1428886061923" TEXT="free licence ; public access to the code"/>
 <node COLOR="#ff0000" CREATED="1392051073963" ID="ID_1687312852" MODIFIED="1392320458581" TEXT="load balance measure"/>
 <node COLOR="#ff0000" CREATED="1392320397680" ID="ID_1470502325" MODIFIED="1392320507932" TEXT="has replay mechanism to isolate a single component from feedbacks "/>
 <node COLOR="#ff0000" CREATED="1392146527990" ID="ID_1504469992" MODIFIED="1392320749899" TEXT="provides clean abort routine"/>

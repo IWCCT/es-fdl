@@ -10,16 +10,15 @@
       How to map and run the coupled system on the computing resources
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node COLOR="#000000" CREATED="1392052509512" ID="ID_1263473379" MODIFIED="1392319390414" POSITION="left" TEXT="user frienliness">
 <node COLOR="#000000" CREATED="1392052585454" ID="ID_888663729" MODIFIED="1392319390414" TEXT="ease of run configuration"/>
 </node>
-<node COLOR="#000000" CREATED="1392304566883" FOLDED="true" ID="ID_142005012" MODIFIED="1392319443073" POSITION="left" TEXT="resources">
+<node COLOR="#000000" CREATED="1392304566883" ID="ID_142005012" MODIFIED="1428886001010" POSITION="left" TEXT="resources">
 <node COLOR="#000000" CREATED="1392036716077" ID="ID_856416290" MODIFIED="1392319390414" TEXT="supported platforms (OS compatibility)"/>
 <node COLOR="#000000" CREATED="1392050572539" ID="ID_1122911151" MODIFIED="1392319390413" TEXT="number of compilers compiled"/>
 </node>
-<node COLOR="#000000" CREATED="1392304643933" FOLDED="true" ID="ID_1905418038" MODIFIED="1404137811634" POSITION="right" TEXT="mapping">
+<node COLOR="#000000" CREATED="1392304643933" ID="ID_1905418038" MODIFIED="1428886003496" POSITION="right" TEXT="mapping">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -29,8 +28,7 @@
       We think that supporting these mapping cover supporting implicit/explicit/semi-implict coupling that was in ES-FDL InteractionProtocol mindmap.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node COLOR="#000000" CREATED="1392144131030" ID="ID_1968663283" MODIFIED="1392319390413" TEXT="components as separate executables"/>
 <node COLOR="#000000" CREATED="1392144146411" ID="ID_1339909431" MODIFIED="1392319390413" TEXT="components running sequentially within one executable"/>
 <node COLOR="#000000" CREATED="1392144266983" ID="ID_682140942" MODIFIED="1392319390413" TEXT="components running concurrently within one executable"/>
