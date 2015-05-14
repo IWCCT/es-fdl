@@ -4,9 +4,9 @@
 <font NAME="SansSerif" SIZE="14"/>
 <node COLOR="#000000" CREATED="1274083152242" ID="_" MODIFIED="1431555031121" POSITION="right" STYLE="bubble" TEXT="ModelingInfrastructure">
 <font BOLD="true" NAME="SansSerif" SIZE="16"/>
-<node COLOR="#990099" CREATED="1254486057572" FOLDED="true" ID="Freemind_Link_26535854" MODIFIED="1431554971985" TEXT="General">
+<node COLOR="#990099" CREATED="1254486057572" ID="Freemind_Link_26535854" MODIFIED="1431637574071" TEXT="General">
 <font NAME="SansSerif" SIZE="14"/>
-<node COLOR="#996600" CREATED="1421420035641" FOLDED="true" ID="ID_160787914" MODIFIED="1431554969446" STYLE="bubble" TEXT="BriefDescription">
+<node COLOR="#996600" CREATED="1421420035641" ID="ID_160787914" MODIFIED="1431637574680" STYLE="bubble" TEXT="BriefDescription">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -16,15 +16,14 @@
       In a few sentences, please describe the purpose and key functional and non-functional properties of the modeling infrastructure.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="Dialog" SIZE="14"/>
 <node CREATED="1405446283262" ID="ID_1371337418" MODIFIED="1405446306712" TEXT="">
 <icon BUILTIN="pencil"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1421420035641" FOLDED="true" ID="ID_1959629776" MODIFIED="1431554969446" STYLE="bubble" TEXT="AppliedToDomains">
+<node COLOR="#996600" CREATED="1421420035641" ID="ID_1959629776" MODIFIED="1431637574680" STYLE="bubble" TEXT="AppliedToDomains">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -34,15 +33,14 @@
       The infrastructure has been applied to models from what domains? (e.g., atmospheric dynamics, tectonics, hydrological cycle, etc.)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="Dialog" SIZE="14"/>
 <node CREATED="1405446283262" ID="ID_727679626" MODIFIED="1405446306712" TEXT="">
 <icon BUILTIN="pencil"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1414613723993" FOLDED="true" ID="ID_794352595" MODIFIED="1431554969446" STYLE="bubble" TEXT="Usage">
+<node COLOR="#996600" CREATED="1414613723993" ID="ID_794352595" MODIFIED="1431637574680" STYLE="bubble" TEXT="Usage">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -52,15 +50,14 @@
       List the specific models, modeling systems, and/or modeling applications already using this infrastructure in some way. If there are too many to list explicitly, please list a representative set.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="Dialog" SIZE="14"/>
 <node CREATED="1405446283262" ID="ID_1423971195" MODIFIED="1405446306712" TEXT="">
 <icon BUILTIN="pencil"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1405446234419" FOLDED="true" ID="ID_816465241" MODIFIED="1431554969447" STYLE="bubble" TEXT="OpenSource">
+<node COLOR="#996600" CREATED="1405446234419" ID="ID_816465241" MODIFIED="1431637574680" STYLE="bubble" TEXT="OpenSource">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -70,8 +67,7 @@
       Is the software open source?
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="Dialog" SIZE="14"/>
 <node CREATED="1405440138807" ID="ID_1670389122" MODIFIED="1405440159069" STYLE="fork" TEXT="yes">
@@ -85,7 +81,7 @@
 <icon BUILTIN="button_cancel"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1405446240678" FOLDED="true" ID="ID_545668030" MODIFIED="1431554969447" STYLE="bubble" TEXT="License">
+<node COLOR="#996600" CREATED="1405446240678" ID="ID_545668030" MODIFIED="1431637574695" STYLE="bubble" TEXT="License">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -95,8 +91,7 @@
       What is the software license covering this infrastructure?
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="Dialog" SIZE="14"/>
 <node CREATED="1414694616865" FOLDED="true" ID="ID_864048165" MODIFIED="1414694827909" STYLE="fork" TEXT="GNU General Public License">
@@ -130,7 +125,7 @@
 <icon BUILTIN="button_cancel"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1405446538522" FOLDED="true" ID="ID_861131491" MODIFIED="1431554969447" STYLE="bubble" TEXT="RequiredSoftwareDependencies">
+<node COLOR="#996600" CREATED="1405446538522" ID="ID_861131491" MODIFIED="1431637574695" STYLE="bubble" TEXT="RequiredSoftwareDependencies">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -140,15 +135,14 @@
       List any required external software library dependencies not included with the distribution (e.g., an MPI implementation, NetCDF, XML library, etc.)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="Dialog" SIZE="14"/>
 <node CREATED="1405446283262" ID="ID_188132576" MODIFIED="1414694050954" TEXT="">
 <icon BUILTIN="pencil"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1405446538522" FOLDED="true" ID="ID_1652690947" MODIFIED="1431554969447" STYLE="bubble" TEXT="OptionalSoftwareDependencies">
+<node COLOR="#996600" CREATED="1405446538522" ID="ID_1652690947" MODIFIED="1431637574695" STYLE="bubble" TEXT="OptionalSoftwareDependencies">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -158,15 +152,14 @@
       List any optional external software library dependencies not included with the distribution
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="Dialog" SIZE="14"/>
 <node CREATED="1405446283262" ID="ID_1661515760" MODIFIED="1414694050954" TEXT="">
 <icon BUILTIN="pencil"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1427379219906" FOLDED="true" ID="ID_1450670206" MODIFIED="1431554969448" STYLE="bubble" TEXT="HomePage">
+<node COLOR="#996600" CREATED="1427379219906" ID="ID_1450670206" MODIFIED="1431637574695" STYLE="bubble" TEXT="HomePage">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -176,15 +169,14 @@
       What is the URL of the web site for the modeling infrastructure?
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="Dialog" SIZE="14"/>
 <node CREATED="1405446283262" ID="ID_615980961" MODIFIED="1414694050954" TEXT="">
 <icon BUILTIN="pencil"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1431466682439" FOLDED="true" ID="ID_552203955" MODIFIED="1431554969448" STYLE="bubble" TEXT="Contact">
+<node COLOR="#996600" CREATED="1431466682439" ID="ID_552203955" MODIFIED="1431637574695" STYLE="bubble" TEXT="Contact">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -194,8 +186,7 @@
       Who do we contact to get more information?
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="Dialog" SIZE="14"/>
 <node CREATED="1405446283262" ID="ID_544211465" MODIFIED="1414694050954" TEXT="">
@@ -203,14 +194,14 @@
 </node>
 </node>
 </node>
-<node COLOR="#990099" CREATED="1431549450205" FOLDED="true" ID="ID_1065148724" MODIFIED="1431554971986" STYLE="bubble" TEXT="Models">
+<node COLOR="#990099" CREATED="1431549450205" ID="ID_1065148724" MODIFIED="1431635620974" STYLE="bubble" TEXT="Models">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font BOLD="true" NAME="SansSerif" SIZE="14"/>
 <icon BUILTIN="attach"/>
-<node COLOR="#990099" CREATED="1431460059780" FOLDED="true" ID="ID_509672280" MODIFIED="1431554969448" STYLE="bubble" TEXT="AssumptionGrids">
+<node COLOR="#990099" CREATED="1431460059780" ID="ID_509672280" MODIFIED="1431637574711" STYLE="bubble" TEXT="AssumptionGrids">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
-<node COLOR="#996600" CREATED="1431460084871" FOLDED="true" ID="ID_258727418" MODIFIED="1431554966363" STYLE="bubble" TEXT="AssumptionsTopologicalStructure">
+<node COLOR="#996600" CREATED="1431460084871" ID="ID_258727418" MODIFIED="1431637575538" STYLE="bubble" TEXT="AssumptionsTopologicalStructure">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -249,7 +240,7 @@
 <icon BUILTIN="button_cancel"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1431463519646" FOLDED="true" ID="ID_926662973" MODIFIED="1431554966363" STYLE="bubble" TEXT="AssumptionsTopologicalDimensions">
+<node COLOR="#996600" CREATED="1431463519646" ID="ID_926662973" MODIFIED="1431637575538" STYLE="bubble" TEXT="AssumptionsTopologicalDimensions">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -278,7 +269,7 @@
 <icon BUILTIN="button_cancel"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1431463922678" FOLDED="true" ID="ID_40863263" MODIFIED="1431554966363" STYLE="bubble" TEXT="AssumptionsCoordinateDimensions">
+<node COLOR="#996600" CREATED="1431463922678" ID="ID_40863263" MODIFIED="1431637575538" STYLE="bubble" TEXT="AssumptionsCoordinateDimensions">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -307,7 +298,7 @@
 <icon BUILTIN="button_cancel"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1431463008833" FOLDED="true" ID="ID_128499396" MODIFIED="1431554966364" STYLE="bubble" TEXT="AssumptionsCoordinateSystem">
+<node COLOR="#996600" CREATED="1431463008833" ID="ID_128499396" MODIFIED="1431637575538" STYLE="bubble" TEXT="AssumptionsCoordinateSystem">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -331,7 +322,7 @@
 <icon BUILTIN="button_cancel"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1431462848969" FOLDED="true" ID="ID_1463203483" MODIFIED="1431554966364" STYLE="bubble" TEXT="AssumptionsDistanceMeasure">
+<node COLOR="#996600" CREATED="1431462848969" ID="ID_1463203483" MODIFIED="1431637575538" STYLE="bubble" TEXT="AssumptionsDistanceMeasure">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -355,7 +346,7 @@
 <icon BUILTIN="button_cancel"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1431463122461" FOLDED="true" ID="ID_681086178" MODIFIED="1431554966364" STYLE="bubble" TEXT="AssumptionsParallelDecomposition">
+<node COLOR="#996600" CREATED="1431463122461" ID="ID_681086178" MODIFIED="1431637575538" STYLE="bubble" TEXT="AssumptionsParallelDecomposition">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -365,8 +356,7 @@
       Which of the following does the modeling infrastructure ALWAYS ASSUME about the grid's parallel decomposition?
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="Dialog" SIZE="14"/>
 <node CREATED="1431463203613" ID="ID_848123926" MODIFIED="1431463242523" STYLE="fork" TEXT="1D segments">
@@ -385,7 +375,7 @@
 <icon BUILTIN="button_cancel"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1431463283278" FOLDED="true" ID="ID_1791294551" MODIFIED="1431554966364" STYLE="bubble" TEXT="AssumptionsParallelDecompositionSpec">
+<node COLOR="#996600" CREATED="1431463283278" ID="ID_1791294551" MODIFIED="1431637575538" STYLE="bubble" TEXT="AssumptionsParallelDecompositionSpec">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -395,8 +385,7 @@
       Which of the following does the modeling infrastructure ALWAYS ASSUME about specifying the parallel decomposition?
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="Dialog" SIZE="14"/>
 <node CREATED="1431550511970" ID="ID_144502432" MODIFIED="1431550527290" STYLE="fork" TEXT="locally described (different for each process)">
@@ -411,10 +400,10 @@
 </node>
 </node>
 </node>
-<node COLOR="#990099" CREATED="1431466277714" FOLDED="true" ID="ID_1706026221" MODIFIED="1431554969449" STYLE="bubble" TEXT="Grids">
+<node COLOR="#990099" CREATED="1431466277714" ID="ID_1706026221" MODIFIED="1431637574727" STYLE="bubble" TEXT="Grids">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
-<node COLOR="#996600" CREATED="1431460084871" FOLDED="true" ID="ID_588431828" MODIFIED="1431554966365" STYLE="bubble" TEXT="TopologicalStructure">
+<node COLOR="#996600" CREATED="1431460084871" ID="ID_588431828" MODIFIED="1431637575553" STYLE="bubble" TEXT="TopologicalStructure">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -424,8 +413,7 @@
       What grid topological structures are supported by the modeling infrastructure?
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="Dialog" SIZE="14"/>
 <node COLOR="#000000" CREATED="1431462016229" ID="ID_822975449" MODIFIED="1431549530523" STYLE="fork" TEXT="logically rectangular uniform">
@@ -454,7 +442,7 @@
 <icon BUILTIN="button_ok"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1392046654105" FOLDED="true" ID="ID_589776198" MODIFIED="1431554966365" STYLE="bubble" TEXT="TopologicalDimensions">
+<node COLOR="#996600" CREATED="1392046654105" ID="ID_589776198" MODIFIED="1431637575553" STYLE="bubble" TEXT="TopologicalDimensions">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -483,7 +471,7 @@
 <icon BUILTIN="button_ok"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1431463008833" FOLDED="true" ID="ID_1584974009" MODIFIED="1431554966365" STYLE="bubble" TEXT="CoordinateSystem">
+<node COLOR="#996600" CREATED="1431463008833" ID="ID_1584974009" MODIFIED="1431637575553" STYLE="bubble" TEXT="CoordinateSystem">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -497,18 +485,18 @@
 </richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="Dialog" SIZE="14"/>
-<node COLOR="#990099" CREATED="1431463060066" ID="ID_243331613" MODIFIED="1431550441963" STYLE="bubble" TEXT="Cartesian">
+<node COLOR="#000000" CREATED="1431463060066" ID="ID_243331613" MODIFIED="1431637554665" STYLE="fork" TEXT="Cartesian">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
 <icon BUILTIN="button_ok"/>
 </node>
-<node COLOR="#990099" CREATED="1431463064226" ID="ID_1199350270" MODIFIED="1431550442615" STYLE="bubble" TEXT="spherical">
+<node COLOR="#000000" CREATED="1431463064226" ID="ID_1199350270" MODIFIED="1431637556344" STYLE="fork" TEXT="spherical">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
 <icon BUILTIN="button_ok"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1412193532730" FOLDED="true" ID="ID_968752458" MODIFIED="1431554966366" STYLE="bubble" TEXT="CoordinateDimensions">
+<node COLOR="#996600" CREATED="1412193532730" ID="ID_968752458" MODIFIED="1431637575553" STYLE="bubble" TEXT="CoordinateDimensions">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -537,7 +525,7 @@
 <icon BUILTIN="button_ok"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1431462848969" FOLDED="true" ID="ID_1414834676" MODIFIED="1431554966366" STYLE="bubble" TEXT="DistanceMeasure">
+<node COLOR="#996600" CREATED="1431462848969" ID="ID_1414834676" MODIFIED="1431637575553" STYLE="bubble" TEXT="DistanceMeasure">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -547,8 +535,7 @@
       What distance measure(s) can be used (e.g., for calculating interpolation weights)?
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="Dialog" SIZE="14"/>
 <node CREATED="1431462910769" ID="ID_1143550844" MODIFIED="1431550576610" STYLE="fork" TEXT="straight line distance">
@@ -562,7 +549,7 @@
 <icon BUILTIN="button_ok"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1414695714615" FOLDED="true" ID="ID_1225513647" MODIFIED="1431554966366" STYLE="bubble" TEXT="MaxPolygonEdges">
+<node COLOR="#996600" CREATED="1414695714615" ID="ID_1225513647" MODIFIED="1431637575553" STYLE="bubble" TEXT="MaxPolygonEdges">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -579,7 +566,7 @@
 <icon BUILTIN="pencil"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1414693885028" FOLDED="true" ID="ID_1221092973" MODIFIED="1431554966366" STYLE="bubble" TEXT="Poles">
+<node COLOR="#996600" CREATED="1414693885028" ID="ID_1221092973" MODIFIED="1431637575553" STYLE="bubble" TEXT="Poles">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -596,7 +583,7 @@
 <icon BUILTIN="pencil"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1431463122461" FOLDED="true" ID="ID_1775686913" MODIFIED="1431554966367" STYLE="bubble" TEXT="ParallelDecomposition">
+<node COLOR="#996600" CREATED="1431463122461" ID="ID_1775686913" MODIFIED="1431637575569" STYLE="bubble" TEXT="ParallelDecomposition">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -606,8 +593,7 @@
       What kinds of parallel decompositions of the model grid are supported by the infrastructure?
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="Dialog" SIZE="14"/>
 <node CREATED="1431463203613" ID="ID_1253146646" MODIFIED="1431550766140" STYLE="fork" TEXT="1D segments">
@@ -626,7 +612,7 @@
 <icon BUILTIN="button_ok"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1431463283278" FOLDED="true" ID="ID_253665374" MODIFIED="1431554966367" STYLE="bubble" TEXT="ParallelDecompositionSpec">
+<node COLOR="#996600" CREATED="1431463283278" ID="ID_253665374" MODIFIED="1431637575569" STYLE="bubble" TEXT="ParallelDecompositionSpec">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -636,8 +622,7 @@
       How are parallel decompositions specified to the infrastructure?
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="Dialog" SIZE="14"/>
 <node CREATED="1431550511970" ID="ID_733897251" MODIFIED="1431550766140" STYLE="fork" TEXT="locally described (different for each process)">
@@ -651,7 +636,7 @@
 <icon BUILTIN="button_ok"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1431466777257" FOLDED="true" ID="ID_1073144266" MODIFIED="1431554966367" STYLE="bubble" TEXT="Masking">
+<node COLOR="#996600" CREATED="1431466777257" ID="ID_1073144266" MODIFIED="1431637575569" STYLE="bubble" TEXT="Masking">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -675,7 +660,7 @@
 <icon BUILTIN="button_cancel"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1431466305546" FOLDED="true" ID="ID_210952247" MODIFIED="1431554966367" STYLE="bubble" TEXT="MultiTile">
+<node COLOR="#996600" CREATED="1431466305546" ID="ID_210952247" MODIFIED="1431637575569" STYLE="bubble" TEXT="MultiTile">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -704,7 +689,7 @@
 <icon BUILTIN="button_cancel"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1431467115410" FOLDED="true" ID="ID_1023653459" MODIFIED="1431554966368" STYLE="bubble" TEXT="NestedGrids">
+<node COLOR="#996600" CREATED="1431467115410" ID="ID_1023653459" MODIFIED="1431637575569" STYLE="bubble" TEXT="NestedGrids">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -733,7 +718,7 @@
 <icon BUILTIN="button_cancel"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1431466948385" FOLDED="true" ID="ID_993709009" MODIFIED="1431554966368" STYLE="bubble" TEXT="AdaptiveGrids">
+<node COLOR="#996600" CREATED="1431466948385" ID="ID_993709009" MODIFIED="1431637575569" STYLE="bubble" TEXT="AdaptiveGrids">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -743,8 +728,7 @@
       Can adaptive grids (i.e., that change in structure over time) be represented by the infrastructure?
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
 <node CREATED="1431467010633" ID="ID_1198092104" MODIFIED="1431467056051" STYLE="fork" TEXT="yes, and the adaptation is managed by the infrastructure">
@@ -764,10 +748,10 @@
 </node>
 </node>
 </node>
-<node COLOR="#990099" CREATED="1431464538596" FOLDED="true" ID="ID_316008254" MODIFIED="1431554969449" STYLE="bubble" TEXT="AssumptionIteration">
+<node COLOR="#990099" CREATED="1431464538596" ID="ID_316008254" MODIFIED="1431637574727" STYLE="bubble" TEXT="AssumptionIteration">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
-<node COLOR="#996600" CREATED="1431464572996" FOLDED="true" ID="ID_1605026157" MODIFIED="1431554966368" STYLE="bubble" TEXT="AssumptionStepScheme">
+<node COLOR="#996600" CREATED="1431464572996" ID="ID_1605026157" MODIFIED="1431637575569" STYLE="bubble" TEXT="AssumptionStepScheme">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -801,7 +785,7 @@
 <icon BUILTIN="button_cancel"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1431465974371" FOLDED="true" ID="ID_1486938201" MODIFIED="1431554966368" STYLE="bubble" TEXT="AssumptionStepSize">
+<node COLOR="#996600" CREATED="1431465974371" ID="ID_1486938201" MODIFIED="1431637575569" STYLE="bubble" TEXT="AssumptionStepSize">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -831,10 +815,10 @@
 </node>
 </node>
 </node>
-<node COLOR="#990099" CREATED="1431543642355" FOLDED="true" ID="ID_468557600" MODIFIED="1431554969449" STYLE="bubble" TEXT="Iteration">
+<node COLOR="#990099" CREATED="1431543642355" ID="ID_468557600" MODIFIED="1431637574727" STYLE="bubble" TEXT="Iteration">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
-<node COLOR="#996600" CREATED="1431548685721" FOLDED="true" ID="ID_534334001" MODIFIED="1431554966369" STYLE="bubble" TEXT="StepScheme">
+<node COLOR="#996600" CREATED="1431548685721" ID="ID_534334001" MODIFIED="1431637575585" STYLE="bubble" TEXT="StepScheme">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -868,7 +852,7 @@
 <icon BUILTIN="button_ok"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1431548687913" FOLDED="true" ID="ID_1518971890" MODIFIED="1431554966369" STYLE="bubble" TEXT="StepSize">
+<node COLOR="#996600" CREATED="1431548687913" ID="ID_1518971890" MODIFIED="1431637575585" STYLE="bubble" TEXT="StepSize">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -898,10 +882,10 @@
 </node>
 </node>
 </node>
-<node COLOR="#990099" CREATED="1422556906394" FOLDED="true" ID="ID_664894765" MODIFIED="1431554969449" STYLE="bubble" TEXT="ModelDefinitionSource">
+<node COLOR="#990099" CREATED="1422556906394" ID="ID_664894765" MODIFIED="1431637574727" STYLE="bubble" TEXT="ModelDefinitionSource">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
-<node COLOR="#996600" CREATED="1421704316781" FOLDED="true" ID="ID_181681132" MODIFIED="1431554966369" STYLE="bubble" TEXT="ModelGridProperties">
+<node COLOR="#996600" CREATED="1421704316781" ID="ID_181681132" MODIFIED="1431637575585" STYLE="bubble" TEXT="ModelGridProperties">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -940,7 +924,7 @@
 <icon BUILTIN="button_ok"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1422558270779" FOLDED="true" ID="ID_879666886" MODIFIED="1431554966370" STYLE="bubble" TEXT="ParallelDecomposition">
+<node COLOR="#996600" CREATED="1422558270779" ID="ID_879666886" MODIFIED="1431637575585" STYLE="bubble" TEXT="ParallelDecomposition">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -979,7 +963,7 @@
 <icon BUILTIN="button_ok"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1421706454182" FOLDED="true" ID="ID_1066855951" MODIFIED="1431554966370" STYLE="bubble" TEXT="TemporalProperties">
+<node COLOR="#996600" CREATED="1421706454182" ID="ID_1066855951" MODIFIED="1431637575585" STYLE="bubble" TEXT="TemporalProperties">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1018,7 +1002,7 @@
 <icon BUILTIN="button_ok"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1421706499551" FOLDED="true" ID="ID_1258902826" MODIFIED="1431554966370" STYLE="bubble" TEXT="SteppingScheme">
+<node COLOR="#996600" CREATED="1421706499551" ID="ID_1258902826" MODIFIED="1431637575585" STYLE="bubble" TEXT="SteppingScheme">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1057,7 +1041,7 @@
 <icon BUILTIN="button_ok"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1421707215392" FOLDED="true" ID="ID_1207035617" MODIFIED="1431554966370" STYLE="bubble" TEXT="ListOfInputFields">
+<node COLOR="#996600" CREATED="1421707215392" ID="ID_1207035617" MODIFIED="1431637575585" STYLE="bubble" TEXT="ListOfInputFields">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1096,7 +1080,7 @@
 <icon BUILTIN="button_ok"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1421707215392" FOLDED="true" ID="ID_866557909" MODIFIED="1431554966371" STYLE="bubble" TEXT="ListOfOutputFields">
+<node COLOR="#996600" CREATED="1421707215392" ID="ID_866557909" MODIFIED="1431637575585" STYLE="bubble" TEXT="ListOfOutputFields">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1135,7 +1119,7 @@
 <icon BUILTIN="button_ok"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1421707277514" FOLDED="true" ID="ID_339525373" MODIFIED="1431554966371" STYLE="bubble" TEXT="ExecutionMethods">
+<node COLOR="#996600" CREATED="1421707277514" ID="ID_339525373" MODIFIED="1431637575585" STYLE="bubble" TEXT="ExecutionMethods">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1175,10 +1159,10 @@
 </node>
 </node>
 </node>
-<node COLOR="#990099" CREATED="1426651761268" FOLDED="true" ID="ID_635784854" MODIFIED="1431554969450" STYLE="bubble" TEXT="Fields">
+<node COLOR="#990099" CREATED="1426651761268" ID="ID_635784854" MODIFIED="1431637574727" STYLE="bubble" TEXT="Fields">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
-<node COLOR="#996600" CREATED="1405953885594" FOLDED="true" ID="ID_623090648" MODIFIED="1431554966371" STYLE="bubble" TEXT="FieldPriming">
+<node COLOR="#996600" CREATED="1405953885594" ID="ID_623090648" MODIFIED="1431637575585" STYLE="bubble" TEXT="FieldPriming">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1207,7 +1191,7 @@
 <icon BUILTIN="button_ok"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1412192964975" FOLDED="true" ID="ID_285013881" MODIFIED="1431554966372" STYLE="bubble" TEXT="FieldOptions">
+<node COLOR="#996600" CREATED="1412192964975" ID="ID_285013881" MODIFIED="1431637575585" STYLE="bubble" TEXT="FieldOptions">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1237,10 +1221,10 @@
 </node>
 </node>
 </node>
-<node COLOR="#990099" CREATED="1431553784149" FOLDED="true" ID="ID_174322019" MODIFIED="1431554969450" STYLE="bubble" TEXT="Metadata">
+<node COLOR="#990099" CREATED="1431553784149" ID="ID_174322019" MODIFIED="1431637574727" STYLE="bubble" TEXT="Metadata">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
-<node COLOR="#996600" CREATED="1412003249250" FOLDED="true" ID="ID_1136575328" MODIFIED="1431554966372" STYLE="bubble" TEXT="ModelMetadataRuntimeQuery">
+<node COLOR="#996600" CREATED="1412003249250" ID="ID_1136575328" MODIFIED="1431637575585" STYLE="bubble" TEXT="ModelMetadataRuntimeQuery">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1284,7 +1268,7 @@
 <icon BUILTIN="button_ok"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1414615134149" FOLDED="true" ID="ID_965786931" MODIFIED="1431554966372" STYLE="bubble" TEXT="ModelMetadataStaticQuery">
+<node COLOR="#996600" CREATED="1414615134149" ID="ID_965786931" MODIFIED="1431637575585" STYLE="bubble" TEXT="ModelMetadataStaticQuery">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1330,14 +1314,14 @@
 </node>
 </node>
 </node>
-<node COLOR="#990099" CREATED="1431552203517" FOLDED="true" ID="ID_1404893333" MODIFIED="1431554971986" STYLE="bubble" TEXT="Composition">
+<node COLOR="#990099" CREATED="1431552203517" ID="ID_1404893333" MODIFIED="1431637574071" STYLE="bubble" TEXT="Composition">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font BOLD="true" NAME="SansSerif" SIZE="14"/>
 <icon BUILTIN="attach"/>
-<node COLOR="#990099" CREATED="1431543690047" FOLDED="true" ID="ID_1964901655" MODIFIED="1431554969450" STYLE="bubble" TEXT="AssumptionComposition">
+<node COLOR="#990099" CREATED="1431543690047" ID="ID_1964901655" MODIFIED="1431637574742" STYLE="bubble" TEXT="AssumptionComposition">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
-<node COLOR="#996600" CREATED="1431547652417" FOLDED="true" ID="ID_1261502746" MODIFIED="1431554966372" STYLE="bubble" TEXT="FieldConnections">
+<node COLOR="#996600" CREATED="1431547652417" ID="ID_1261502746" MODIFIED="1431637575600" STYLE="bubble" TEXT="FieldConnections">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1361,7 +1345,7 @@
 <icon BUILTIN="button_cancel"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1431547424251" FOLDED="true" ID="ID_1395253347" MODIFIED="1431554966373" STYLE="bubble" TEXT="CouplingFrequency">
+<node COLOR="#996600" CREATED="1431547424251" ID="ID_1395253347" MODIFIED="1431637575600" STYLE="bubble" TEXT="CouplingFrequency">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1385,7 +1369,7 @@
 <icon BUILTIN="button_cancel"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1431543729789" FOLDED="true" ID="ID_665259844" MODIFIED="1431554966373" STYLE="bubble" TEXT="DynamicComposition">
+<node COLOR="#996600" CREATED="1431543729789" ID="ID_665259844" MODIFIED="1431637575600" STYLE="bubble" TEXT="DynamicComposition">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1410,10 +1394,10 @@
 </node>
 </node>
 </node>
-<node COLOR="#990099" CREATED="1422556069056" FOLDED="true" ID="ID_619416728" MODIFIED="1431554969451" STYLE="bubble" TEXT="MediationServices">
+<node COLOR="#990099" CREATED="1422556069056" ID="ID_619416728" MODIFIED="1431637574758" STYLE="bubble" TEXT="MediationServices">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
-<node COLOR="#996600" CREATED="1422556080475" FOLDED="true" ID="ID_167507499" MODIFIED="1431554966373" STYLE="bubble" TEXT="SpatialInterpolation">
+<node COLOR="#996600" CREATED="1422556080475" ID="ID_167507499" MODIFIED="1431637575600" STYLE="bubble" TEXT="SpatialInterpolation">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1423,8 +1407,7 @@
       What is the level of support for spatial interpolation?
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
 <node BACKGROUND_COLOR="#ffffff" COLOR="#000000" CREATED="1422556099812" ID="ID_1410737370" MODIFIED="1431552897913" STYLE="fork" TEXT="provided">
@@ -1443,7 +1426,7 @@
 <icon BUILTIN="button_ok"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1422556118172" FOLDED="true" ID="ID_1941783455" MODIFIED="1431554966373" STYLE="bubble" TEXT="TemporalInterpolation">
+<node COLOR="#996600" CREATED="1422556118172" ID="ID_1941783455" MODIFIED="1431637575600" STYLE="bubble" TEXT="TemporalInterpolation">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1453,8 +1436,7 @@
       What is the level of support for temporal interpolation?
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
 <node BACKGROUND_COLOR="#ffffff" COLOR="#000000" CREATED="1422556099812" ID="ID_1561915197" MODIFIED="1422556114222" STYLE="fork" TEXT="provided">
@@ -1473,7 +1455,7 @@
 <icon BUILTIN="button_ok"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1422556129689" FOLDED="true" ID="ID_696189419" MODIFIED="1431554966374" STYLE="bubble" TEXT="UnitConversion">
+<node COLOR="#996600" CREATED="1422556129689" ID="ID_696189419" MODIFIED="1431637575600" STYLE="bubble" TEXT="UnitConversion">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1483,8 +1465,7 @@
       What is the level of support for unit conversion?
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
 <node BACKGROUND_COLOR="#ffffff" COLOR="#000000" CREATED="1422556099812" ID="ID_922137069" MODIFIED="1422556114222" STYLE="fork" TEXT="provided">
@@ -1503,7 +1484,7 @@
 <icon BUILTIN="button_ok"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1422556138691" FOLDED="true" ID="ID_1954992749" MODIFIED="1431554966374" STYLE="bubble" TEXT="AngleConversion">
+<node COLOR="#996600" CREATED="1422556138691" ID="ID_1954992749" MODIFIED="1431637575600" STYLE="bubble" TEXT="AngleConversion">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1513,8 +1494,7 @@
       What is the level of support for angle conversion?
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
 <node BACKGROUND_COLOR="#ffffff" COLOR="#000000" CREATED="1422556099812" ID="ID_1267367667" MODIFIED="1422556114222" STYLE="fork" TEXT="provided">
@@ -1533,7 +1513,7 @@
 <icon BUILTIN="button_ok"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1422556142676" FOLDED="true" ID="ID_1125536769" MODIFIED="1431554966374" STYLE="bubble" TEXT="Semantic/FieldBroker">
+<node COLOR="#996600" CREATED="1422556142676" ID="ID_1125536769" MODIFIED="1431637575600" STYLE="bubble" TEXT="Semantic/FieldBroker">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1543,8 +1523,7 @@
       What is the level of support for semantic field brokering (e.g., field matching based on standard names)?
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
 <node BACKGROUND_COLOR="#ffffff" COLOR="#000000" CREATED="1422556099812" ID="ID_1219319948" MODIFIED="1422556114222" STYLE="fork" TEXT="provided">
@@ -1563,7 +1542,7 @@
 <icon BUILTIN="button_ok"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1422564496753" FOLDED="true" ID="ID_696472420" MODIFIED="1431554966375" STYLE="bubble" TEXT="FieldMerging">
+<node COLOR="#996600" CREATED="1422564496753" ID="ID_696472420" MODIFIED="1431637575600" STYLE="bubble" TEXT="FieldMerging">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1573,8 +1552,7 @@
       What is the level of support for field merging?
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
 <node BACKGROUND_COLOR="#ffffff" COLOR="#000000" CREATED="1422556099812" ID="ID_368372493" MODIFIED="1422556114222" STYLE="fork" TEXT="provided">
@@ -1593,7 +1571,7 @@
 <icon BUILTIN="button_ok"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1422564549943" FOLDED="true" ID="ID_955964218" MODIFIED="1431554966375" STYLE="bubble" TEXT="DomainInterfaceConsistencyChecking">
+<node COLOR="#996600" CREATED="1422564549943" ID="ID_955964218" MODIFIED="1431637575600" STYLE="bubble" TEXT="DomainInterfaceConsistencyChecking">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1603,8 +1581,7 @@
       What is the level of support for ensuring global domain consistency, e.g., checking for consistent land/sea mask?
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
 <node BACKGROUND_COLOR="#ffffff" COLOR="#000000" CREATED="1422556099812" ID="ID_1841090073" MODIFIED="1422556114222" STYLE="fork" TEXT="provided">
@@ -1623,7 +1600,7 @@
 <icon BUILTIN="button_ok"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1422556174790" FOLDED="true" ID="ID_1518561234" MODIFIED="1431554966375" STYLE="bubble" TEXT="ProgrammingLanguageInteroperability">
+<node COLOR="#996600" CREATED="1422556174790" ID="ID_1518561234" MODIFIED="1431637575600" STYLE="bubble" TEXT="ProgrammingLanguageInteroperability">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1633,8 +1610,7 @@
       What is the level of support for programming language interoperability?
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
 <node BACKGROUND_COLOR="#ffffff" COLOR="#000000" CREATED="1422556099812" ID="ID_33269997" MODIFIED="1422556114222" STYLE="fork" TEXT="provided">
@@ -1653,7 +1629,7 @@
 <icon BUILTIN="button_ok"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1422556239179" FOLDED="true" ID="ID_686494446" MODIFIED="1431554966375" STYLE="bubble" TEXT="ParallelToSerialRepartitioning">
+<node COLOR="#996600" CREATED="1422556239179" ID="ID_686494446" MODIFIED="1431637575616" STYLE="bubble" TEXT="ParallelToSerialRepartitioning">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1663,8 +1639,7 @@
       What is the level of support for parallel to serial repartitioning?
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
 <node BACKGROUND_COLOR="#ffffff" COLOR="#000000" CREATED="1422556099812" ID="ID_1826156164" MODIFIED="1422556114222" STYLE="fork" TEXT="provided">
@@ -1683,7 +1658,7 @@
 <icon BUILTIN="button_ok"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1422556242637" FOLDED="true" ID="ID_411705799" MODIFIED="1431554966388" STYLE="bubble" TEXT="ParallelToParallelRepartitioning">
+<node COLOR="#996600" CREATED="1422556242637" ID="ID_411705799" MODIFIED="1431637575616" STYLE="bubble" TEXT="ParallelToParallelRepartitioning">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1693,8 +1668,7 @@
       What is the level of support for parallel to parallel repartitioning (often called MxN redistribution)?
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
 <node BACKGROUND_COLOR="#ffffff" COLOR="#000000" CREATED="1422556099812" ID="ID_1563342629" MODIFIED="1422556114222" STYLE="fork" TEXT="provided">
@@ -1713,7 +1687,7 @@
 <icon BUILTIN="button_ok"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1422556257083" FOLDED="true" ID="ID_938148428" MODIFIED="1431554966389" STYLE="bubble" TEXT="Scientific">
+<node COLOR="#996600" CREATED="1422556257083" ID="ID_938148428" MODIFIED="1431637575616" STYLE="bubble" TEXT="Scientific">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1723,8 +1697,7 @@
       What is the level of support for scientific or domain-specific mediation, e.g., flux calculations?
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
 <node BACKGROUND_COLOR="#ffffff" COLOR="#000000" CREATED="1422556099812" ID="ID_1808151883" MODIFIED="1422556114222" STYLE="fork" TEXT="provided">
@@ -1743,7 +1716,7 @@
 <icon BUILTIN="button_ok"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1426650250089" FOLDED="true" ID="ID_1647606094" MODIFIED="1431554966389" STYLE="bubble" TEXT="LoadBalancing">
+<node COLOR="#996600" CREATED="1426650250089" ID="ID_1647606094" MODIFIED="1431637575616" STYLE="bubble" TEXT="LoadBalancing">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1753,8 +1726,7 @@
       What is the level of support for load balancing?
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
 <node BACKGROUND_COLOR="#ffffff" COLOR="#000000" CREATED="1422556099812" ID="ID_178236405" MODIFIED="1422556114222" STYLE="fork" TEXT="provided">
@@ -1774,10 +1746,10 @@
 </node>
 </node>
 </node>
-<node COLOR="#990099" CREATED="1405957359759" FOLDED="true" ID="ID_1379350250" MODIFIED="1431554969451" STYLE="bubble" TEXT="Interpolation">
+<node COLOR="#990099" CREATED="1405957359759" ID="ID_1379350250" MODIFIED="1431637574773" STYLE="bubble" TEXT="Interpolation">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
-<node COLOR="#996600" CREATED="1405955051875" FOLDED="true" ID="ID_216885975" MODIFIED="1431554966389" STYLE="bubble" TEXT="SparseMatrixMultiplication">
+<node COLOR="#996600" CREATED="1405955051875" ID="ID_216885975" MODIFIED="1431637575616" STYLE="bubble" TEXT="SparseMatrixMultiplication">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1801,7 +1773,7 @@
 <icon BUILTIN="button_cancel"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1405955135130" FOLDED="true" ID="ID_1931632552" MODIFIED="1431554966390" STYLE="bubble" TEXT="WeightGenerationInterpolationMethod">
+<node COLOR="#996600" CREATED="1405955135130" ID="ID_1931632552" MODIFIED="1431637575616" STYLE="bubble" TEXT="WeightGenerationInterpolationMethod">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1850,7 +1822,7 @@
 <icon BUILTIN="button_ok"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1405956413809" FOLDED="true" ID="ID_1237677380" MODIFIED="1431554966390" STYLE="bubble" TEXT="WeightGenerationExecution">
+<node COLOR="#996600" CREATED="1405956413809" ID="ID_1237677380" MODIFIED="1431637575616" STYLE="bubble" TEXT="WeightGenerationExecution">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1884,7 +1856,7 @@
 <icon BUILTIN="button_ok"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1405959213792" FOLDED="true" ID="ID_1588712322" MODIFIED="1431554966390" STYLE="bubble" TEXT="WeightApplicationInterpolationMethod">
+<node COLOR="#996600" CREATED="1405959213792" ID="ID_1588712322" MODIFIED="1431637575616" STYLE="bubble" TEXT="WeightApplicationInterpolationMethod">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1933,7 +1905,7 @@
 <icon BUILTIN="button_ok"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1407188450938" FOLDED="true" ID="ID_866176616" MODIFIED="1431554966390" STYLE="bubble" TEXT="WeightApplicationExecution">
+<node COLOR="#996600" CREATED="1407188450938" ID="ID_866176616" MODIFIED="1431637575616" STYLE="bubble" TEXT="WeightApplicationExecution">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1957,7 +1929,7 @@
 <icon BUILTIN="button_ok"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1405955020309" FOLDED="true" ID="ID_1921578308" MODIFIED="1431554966390" STYLE="bubble" TEXT="Temporal">
+<node COLOR="#996600" CREATED="1405955020309" ID="ID_1921578308" MODIFIED="1431637575616" STYLE="bubble" TEXT="Temporal">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1967,8 +1939,7 @@
       What temporal transformations can be supported?
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="Dialog" SIZE="14"/>
 <node COLOR="#000000" CREATED="1392047035745" ID="ID_1707750100" MODIFIED="1405961957319" STYLE="fork" TEXT="accumulation">
@@ -2008,10 +1979,10 @@
 </node>
 </node>
 </node>
-<node COLOR="#990099" CREATED="1414696855336" FOLDED="true" ID="ID_91237114" MODIFIED="1431554969451" STYLE="bubble" TEXT="Control">
+<node COLOR="#990099" CREATED="1414696855336" ID="ID_91237114" MODIFIED="1431637574773" STYLE="bubble" TEXT="Control">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
-<node COLOR="#996600" CREATED="1233141022285" FOLDED="true" ID="Freemind_Link_599221753" MODIFIED="1431554966391" STYLE="bubble" TEXT="ControlRegime">
+<node COLOR="#996600" CREATED="1233141022285" ID="Freemind_Link_599221753" MODIFIED="1431637575616" STYLE="bubble" TEXT="ControlRegime">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2039,7 +2010,7 @@
 <icon BUILTIN="button_cancel"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1256808784284" FOLDED="true" ID="Freemind_Link_414212782" MODIFIED="1431554966391" TEXT="ExecutionSequenceCustomization">
+<node COLOR="#996600" CREATED="1256808784284" ID="Freemind_Link_414212782" MODIFIED="1431637575616" TEXT="ExecutionSequenceCustomization">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2067,7 +2038,7 @@
 <icon BUILTIN="button_ok"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1414621400264" FOLDED="true" ID="ID_132545590" MODIFIED="1431554966391" STYLE="bubble" TEXT="ModelExecutionConcurrency">
+<node COLOR="#996600" CREATED="1414621400264" ID="ID_132545590" MODIFIED="1431637575616" STYLE="bubble" TEXT="ModelExecutionConcurrency">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2091,7 +2062,7 @@
 <icon BUILTIN="button_ok"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1405440388697" FOLDED="true" ID="ID_963022105" MODIFIED="1431554966391" STYLE="bubble" TEXT="MultiExecutable">
+<node COLOR="#996600" CREATED="1405440388697" ID="ID_963022105" MODIFIED="1431637575631" STYLE="bubble" TEXT="MultiExecutable">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2121,10 +2092,10 @@
 </node>
 </node>
 </node>
-<node COLOR="#990099" CREATED="1426651183584" FOLDED="true" ID="ID_1598569574" MODIFIED="1431554969451" STYLE="bubble" TEXT="DataExchange">
+<node COLOR="#990099" CREATED="1426651183584" ID="ID_1598569574" MODIFIED="1431637574773" STYLE="bubble" TEXT="DataExchange">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
-<node COLOR="#996600" CREATED="1405440941153" FOLDED="true" ID="ID_1777253773" MODIFIED="1431554966391" STYLE="bubble" TEXT="DataExchangeMechanism">
+<node COLOR="#996600" CREATED="1405440941153" ID="ID_1777253773" MODIFIED="1431637575631" STYLE="bubble" TEXT="DataExchangeMechanism">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2164,10 +2135,10 @@
 </node>
 </node>
 </node>
-<node COLOR="#990099" CREATED="1426651392936" FOLDED="true" ID="ID_476650687" MODIFIED="1431554969452" STYLE="bubble" TEXT="TimeManagement">
+<node COLOR="#990099" CREATED="1426651392936" ID="ID_476650687" MODIFIED="1431637574773" STYLE="bubble" TEXT="TimeManagement">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
-<node COLOR="#996600" CREATED="1426651439326" FOLDED="true" ID="ID_1029424998" MODIFIED="1431554966391" STYLE="bubble" TEXT="Clock">
+<node COLOR="#996600" CREATED="1426651439326" ID="ID_1029424998" MODIFIED="1431637575631" STYLE="bubble" TEXT="Clock">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2196,7 +2167,7 @@
 <icon BUILTIN="button_ok"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1426651443882" FOLDED="true" ID="ID_1375152656" MODIFIED="1431554966392" STYLE="bubble" TEXT="CalendarManagement">
+<node COLOR="#996600" CREATED="1426651443882" ID="ID_1375152656" MODIFIED="1431637575631" STYLE="bubble" TEXT="CalendarManagement">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2226,10 +2197,10 @@
 </node>
 </node>
 </node>
-<node COLOR="#990099" CREATED="1431554413857" FOLDED="true" ID="ID_128305189" MODIFIED="1431554969452" STYLE="bubble" TEXT="Metadata">
+<node COLOR="#990099" CREATED="1431554413857" ID="ID_128305189" MODIFIED="1431637574773" STYLE="bubble" TEXT="Metadata">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
-<node COLOR="#996600" CREATED="1426648630903" FOLDED="true" ID="ID_756349523" MODIFIED="1431554966392" STYLE="bubble" TEXT="CompositionMetadataRuntimeQuery">
+<node COLOR="#996600" CREATED="1426648630903" ID="ID_756349523" MODIFIED="1431637575631" STYLE="bubble" TEXT="CompositionMetadataRuntimeQuery">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2253,7 +2224,7 @@
 <icon BUILTIN="button_ok"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1426648639216" FOLDED="true" ID="ID_1385810400" MODIFIED="1431554966392" STYLE="bubble" TEXT="CompositionMetadataStaticQuery">
+<node COLOR="#996600" CREATED="1426648639216" ID="ID_1385810400" MODIFIED="1431637575631" STYLE="bubble" TEXT="CompositionMetadataStaticQuery">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2279,14 +2250,14 @@
 </node>
 </node>
 </node>
-<node COLOR="#990099" CREATED="1424367162843" FOLDED="true" ID="ID_1714401787" MODIFIED="1431554971986" STYLE="bubble" TEXT="Implementation">
+<node COLOR="#990099" CREATED="1424367162843" ID="ID_1714401787" MODIFIED="1431637574087" STYLE="bubble" TEXT="Implementation">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font BOLD="true" NAME="SansSerif" SIZE="14"/>
 <icon BUILTIN="attach"/>
-<node COLOR="#990099" CREATED="1424378264087" FOLDED="true" ID="ID_1391362972" MODIFIED="1431554969452" STYLE="bubble" TEXT="Parallelism">
+<node COLOR="#990099" CREATED="1424378264087" ID="ID_1391362972" MODIFIED="1431637574773" STYLE="bubble" TEXT="Parallelism">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
-<node COLOR="#996600" CREATED="1414618383006" FOLDED="true" ID="ID_1660244678" MODIFIED="1431554966392" STYLE="bubble" TEXT="Parallelism">
+<node COLOR="#996600" CREATED="1414618383006" ID="ID_1660244678" MODIFIED="1431637575631" STYLE="bubble" TEXT="Parallelism">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2296,8 +2267,7 @@
       What forms of parallelism are supported?
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="Dialog" SIZE="14"/>
 <node COLOR="#000000" CREATED="1414618405399" ID="ID_1794142995" MODIFIED="1414618417175" STYLE="fork" TEXT="multi-threading">
@@ -2311,7 +2281,7 @@
 <icon BUILTIN="button_ok"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1405440641790" FOLDED="true" ID="ID_787187654" MODIFIED="1431554966392" STYLE="bubble" TEXT="ParallelLibrary">
+<node COLOR="#996600" CREATED="1405440641790" ID="ID_787187654" MODIFIED="1431637575631" STYLE="bubble" TEXT="ParallelLibrary">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2321,8 +2291,7 @@
       What parallel libraries are supported or required?
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="Dialog" SIZE="14"/>
 <node COLOR="#000000" CREATED="1405440687977" ID="ID_1647687345" MODIFIED="1412003624888" STYLE="fork" TEXT="MPI">
@@ -2346,7 +2315,7 @@
 <icon BUILTIN="button_ok"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1426651214388" FOLDED="true" ID="ID_1286170177" MODIFIED="1431554966392" STYLE="bubble" TEXT="HaloExchange">
+<node COLOR="#996600" CREATED="1426651214388" ID="ID_1286170177" MODIFIED="1431637575631" STYLE="bubble" TEXT="HaloExchange">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2356,8 +2325,7 @@
       What level of support is provided for halo exchanges?
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="Dialog" SIZE="14"/>
 <node BACKGROUND_COLOR="#ffffff" COLOR="#000000" CREATED="1422556099812" ID="ID_1136264586" MODIFIED="1422556114222" STYLE="fork" TEXT="provided">
@@ -2377,10 +2345,10 @@
 </node>
 </node>
 </node>
-<node COLOR="#990099" CREATED="1405435893421" FOLDED="true" ID="ID_539475850" MODIFIED="1431554969452" STYLE="bubble" TEXT="Components">
+<node COLOR="#990099" CREATED="1405435893421" ID="ID_539475850" MODIFIED="1431637574773" STYLE="bubble" TEXT="Components">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
-<node COLOR="#996600" CREATED="1405438204574" FOLDED="true" ID="ID_480309160" MODIFIED="1431554966393" STYLE="bubble" TEXT="ModelComponentAbstraction">
+<node COLOR="#996600" CREATED="1405438204574" ID="ID_480309160" MODIFIED="1431637575631" STYLE="bubble" TEXT="ModelComponentAbstraction">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2390,8 +2358,7 @@
       Does the infrastructure have an explicit model component/object construct?
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="Dialog" SIZE="14"/>
 <node BACKGROUND_COLOR="#ffffff" COLOR="#000000" CREATED="1405438227608" ID="ID_1287478293" MODIFIED="1412002477818" STYLE="fork" TEXT="yes">
@@ -2405,7 +2372,7 @@
 <icon BUILTIN="button_cancel"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1405438204574" FOLDED="true" ID="ID_223635480" MODIFIED="1431554966393" STYLE="bubble" TEXT="ModelComponentRef">
+<node COLOR="#996600" CREATED="1405438204574" ID="ID_223635480" MODIFIED="1431637575631" STYLE="bubble" TEXT="ModelComponentRef">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2415,8 +2382,7 @@
       If the infrastructure has a model component/object concept, how is it referenced?
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="Dialog" SIZE="14"/>
 <node BACKGROUND_COLOR="#ffffff" COLOR="#000000" CREATED="1405438227608" ID="ID_951183744" MODIFIED="1412002590629" STYLE="fork" TEXT="an instance of a Fortran derived type or C struct">
@@ -2435,7 +2401,7 @@
 <icon BUILTIN="button_ok"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1426651941699" FOLDED="true" ID="ID_1648205232" MODIFIED="1431554966393" STYLE="bubble" TEXT="ModelComponentHierarchy">
+<node COLOR="#996600" CREATED="1426651941699" ID="ID_1648205232" MODIFIED="1431637575631" STYLE="bubble" TEXT="ModelComponentHierarchy">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2445,8 +2411,7 @@
       Can model components/objects be nested into a hierarchy?
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="Dialog" SIZE="14"/>
 <node BACKGROUND_COLOR="#ffffff" COLOR="#000000" CREATED="1405438227608" ID="ID_1794283481" MODIFIED="1412002477818" STYLE="fork" TEXT="yes">
@@ -2460,7 +2425,7 @@
 <icon BUILTIN="button_cancel"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1426651994449" FOLDED="true" ID="ID_727014631" MODIFIED="1431554966393" STYLE="bubble" TEXT="ModelComponentEnsemble">
+<node COLOR="#996600" CREATED="1426651994449" ID="ID_727014631" MODIFIED="1431637575631" STYLE="bubble" TEXT="ModelComponentEnsemble">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2470,8 +2435,7 @@
       Can the same model component be instantiated multiple times in a simulation to support ensemble runs?
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="Dialog" SIZE="14"/>
 <node BACKGROUND_COLOR="#ffffff" COLOR="#000000" CREATED="1405438227608" ID="ID_415180345" MODIFIED="1412002477818" STYLE="fork" TEXT="yes">
@@ -2486,10 +2450,10 @@
 </node>
 </node>
 </node>
-<node COLOR="#990099" CREATED="1426647885066" FOLDED="true" ID="ID_599609773" MODIFIED="1431554969453" STYLE="bubble" TEXT="Languages">
+<node COLOR="#990099" CREATED="1426647885066" ID="ID_599609773" MODIFIED="1431637574773" STYLE="bubble" TEXT="Languages">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
-<node COLOR="#996600" CREATED="1405438204574" FOLDED="true" ID="ID_173681369" MODIFIED="1431554966393" STYLE="bubble" TEXT="ImplementationLanguage">
+<node COLOR="#996600" CREATED="1405438204574" ID="ID_173681369" MODIFIED="1431637575631" STYLE="bubble" TEXT="ImplementationLanguage">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2533,7 +2497,7 @@
 <icon BUILTIN="button_ok"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1414620917412" FOLDED="true" ID="ID_916576482" MODIFIED="1431554966394" STYLE="bubble" TEXT="ClientLanguageBindings">
+<node COLOR="#996600" CREATED="1414620917412" ID="ID_916576482" MODIFIED="1431637575631" STYLE="bubble" TEXT="ClientLanguageBindings">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2578,10 +2542,10 @@
 </node>
 </node>
 </node>
-<node COLOR="#990099" CREATED="1424378222485" FOLDED="true" ID="ID_920301498" MODIFIED="1431554969453" STYLE="bubble" TEXT="Platform">
+<node COLOR="#990099" CREATED="1424378222485" ID="ID_920301498" MODIFIED="1431637574789" STYLE="bubble" TEXT="Platform">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
-<node COLOR="#996600" CREATED="1414620688547" FOLDED="true" ID="ID_146294725" MODIFIED="1431554966394" STYLE="bubble" TEXT="SupportedOperatingSystems">
+<node COLOR="#996600" CREATED="1414620688547" ID="ID_146294725" MODIFIED="1431637575631" STYLE="bubble" TEXT="SupportedOperatingSystems">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2610,7 +2574,7 @@
 <icon BUILTIN="button_ok"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1414620767836" FOLDED="true" ID="ID_1489958451" MODIFIED="1431554966394" STYLE="bubble" TEXT="SupportedPlatforms">
+<node COLOR="#996600" CREATED="1414620767836" ID="ID_1489958451" MODIFIED="1431637575631" STYLE="bubble" TEXT="SupportedPlatforms">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2639,7 +2603,7 @@
 <icon BUILTIN="button_ok"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1414621737574" FOLDED="true" ID="ID_964375191" MODIFIED="1431554966394" STYLE="bubble" TEXT="SupportedCompilers">
+<node COLOR="#996600" CREATED="1414621737574" ID="ID_964375191" MODIFIED="1431637575631" STYLE="bubble" TEXT="SupportedCompilers">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2657,10 +2621,10 @@
 </node>
 </node>
 </node>
-<node COLOR="#990099" CREATED="1424368552171" FOLDED="true" ID="ID_450995271" MODIFIED="1431554969453" STYLE="bubble" TEXT="MetadataOutput">
+<node COLOR="#990099" CREATED="1424368552171" ID="ID_450995271" MODIFIED="1431637574789" STYLE="bubble" TEXT="MetadataOutput">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
-<node COLOR="#996600" CREATED="1414680464926" FOLDED="true" ID="ID_88233716" MODIFIED="1431554966394" STYLE="bubble" TEXT="MetadataOutput">
+<node COLOR="#996600" CREATED="1414680464926" ID="ID_88233716" MODIFIED="1431637575631" STYLE="bubble" TEXT="MetadataOutput">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2684,7 +2648,7 @@
 <icon BUILTIN="button_ok"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1414681011116" FOLDED="true" ID="ID_698091776" MODIFIED="1431554966394" STYLE="bubble" TEXT="MetadataOutputFormats">
+<node COLOR="#996600" CREATED="1414681011116" ID="ID_698091776" MODIFIED="1431637575631" STYLE="bubble" TEXT="MetadataOutputFormats">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2702,10 +2666,10 @@
 </node>
 </node>
 </node>
-<node COLOR="#990099" CREATED="1426647419967" FOLDED="true" ID="ID_108190690" MODIFIED="1431554969454" STYLE="bubble" TEXT="MetadataInput">
+<node COLOR="#990099" CREATED="1426647419967" ID="ID_108190690" MODIFIED="1431637574789" STYLE="bubble" TEXT="MetadataInput">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
-<node COLOR="#996600" CREATED="1414680464926" FOLDED="true" ID="ID_490045092" MODIFIED="1431554966394" STYLE="bubble" TEXT="MetadataInput">
+<node COLOR="#996600" CREATED="1414680464926" ID="ID_490045092" MODIFIED="1431637575631" STYLE="bubble" TEXT="MetadataInput">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2729,7 +2693,7 @@
 <icon BUILTIN="button_ok"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1414681011116" FOLDED="true" ID="ID_1135263503" MODIFIED="1431554966395" STYLE="bubble" TEXT="MetadataInputFormats">
+<node COLOR="#996600" CREATED="1414681011116" ID="ID_1135263503" MODIFIED="1431637575631" STYLE="bubble" TEXT="MetadataInputFormats">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2748,14 +2712,14 @@
 </node>
 </node>
 </node>
-<node COLOR="#990099" CREATED="1405439804725" FOLDED="true" ID="ID_1445165226" MODIFIED="1431554971986" STYLE="bubble" TEXT="Support">
+<node COLOR="#990099" CREATED="1405439804725" ID="ID_1445165226" MODIFIED="1431637574087" STYLE="bubble" TEXT="Support">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font BOLD="true" NAME="SansSerif" SIZE="14"/>
 <icon BUILTIN="attach"/>
-<node COLOR="#990099" CREATED="1405443688946" FOLDED="true" ID="ID_1676368816" MODIFIED="1431554969454" STYLE="bubble" TEXT="UserSupport">
+<node COLOR="#990099" CREATED="1405443688946" ID="ID_1676368816" MODIFIED="1431637574789" STYLE="bubble" TEXT="UserSupport">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
-<node COLOR="#996600" CREATED="1405443798980" FOLDED="true" ID="ID_366545827" MODIFIED="1431554966395" STYLE="bubble" TEXT="Documentation">
+<node COLOR="#996600" CREATED="1405443798980" ID="ID_366545827" MODIFIED="1431637575647" STYLE="bubble" TEXT="Documentation">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2765,8 +2729,7 @@
       What kinds of user documentation is provided?
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="Dialog" SIZE="14"/>
 <node COLOR="#000000" CREATED="1405443833709" ID="ID_1253139272" MODIFIED="1405446418311" STYLE="fork" TEXT="comprehensive API Reference">
@@ -2795,7 +2758,7 @@
 <icon BUILTIN="button_ok"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1405443898975" FOLDED="true" ID="ID_1232533202" MODIFIED="1431554966395" STYLE="bubble" TEXT="Support">
+<node COLOR="#996600" CREATED="1405443898975" ID="ID_1232533202" MODIFIED="1431637575647" STYLE="bubble" TEXT="Support">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2805,8 +2768,7 @@
       What kinds of user support are provided?
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="Dialog" SIZE="14"/>
 <node COLOR="#000000" CREATED="1405444246370" ID="ID_936124248" MODIFIED="1405444672306" STYLE="fork" TEXT="forum">
@@ -2835,7 +2797,7 @@
 <icon BUILTIN="button_ok"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1405443898975" FOLDED="true" ID="ID_455917852" MODIFIED="1431554966395" STYLE="bubble" TEXT="ChangeManagement">
+<node COLOR="#996600" CREATED="1405443898975" ID="ID_455917852" MODIFIED="1431637575647" STYLE="bubble" TEXT="ChangeManagement">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2845,8 +2807,7 @@
       What change management mechanisms are in place?
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="Dialog" SIZE="14"/>
 <node COLOR="#000000" CREATED="1405444452329" ID="ID_1886456128" MODIFIED="1405444520233" STYLE="fork" TEXT="version control">
@@ -2871,10 +2832,10 @@
 </node>
 </node>
 </node>
-<node COLOR="#990099" CREATED="1405443688946" FOLDED="true" ID="ID_875723225" MODIFIED="1431554969454" STYLE="bubble" TEXT="DeveloperSupport">
+<node COLOR="#990099" CREATED="1405443688946" ID="ID_875723225" MODIFIED="1431637574789" STYLE="bubble" TEXT="DeveloperSupport">
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
-<node COLOR="#996600" CREATED="1405445961989" FOLDED="true" ID="ID_1419362814" MODIFIED="1431554966395" STYLE="bubble" TEXT="DeveloperDocumentation">
+<node COLOR="#996600" CREATED="1405445961989" ID="ID_1419362814" MODIFIED="1431637575647" STYLE="bubble" TEXT="DeveloperDocumentation">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2884,8 +2845,7 @@
       Is developer documentation available (i.e, for those who wish to change the infrastructure itself)?
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="Dialog" SIZE="14"/>
 <node CREATED="1405446048559" ID="ID_890214959" MODIFIED="1405446146751" STYLE="fork" TEXT="yes">
@@ -2899,7 +2859,7 @@
 <icon BUILTIN="button_cancel"/>
 </node>
 </node>
-<node COLOR="#996600" CREATED="1405446104353" FOLDED="true" ID="ID_653534067" MODIFIED="1431554966395" STYLE="bubble" TEXT="Tests">
+<node COLOR="#996600" CREATED="1405446104353" ID="ID_653534067" MODIFIED="1431637575647" STYLE="bubble" TEXT="Tests">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -2909,8 +2869,7 @@
       What kinds of tests are provided with the infrastructure?
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
 <font NAME="Dialog" SIZE="14"/>
 <node COLOR="#000000" CREATED="1405444557167" ID="ID_523165811" MODIFIED="1405444698601" STYLE="fork" TEXT="unit tests">
